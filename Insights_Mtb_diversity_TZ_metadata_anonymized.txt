@@ -1,0 +1,2040 @@
+anonymized_id	lineage	case	HIV	age	sex	region	zone	age_group
+1	L4	new case	NA	NA	M	Shinyanga	Lake	NA
+2	L1	new case	NA	46	F	Kilimanjaro	Northern	Late adult
+3	L4	new case	negative	47	F	Dar es Salaam	Coastal	Late adult
+4	L4	new case	negative	50	F	Arusha	Northern	Late adult
+5	L1	new case	negative	21	M	Dar es Salaam	Coastal	Young age
+6	L2	new case	NA	19	M	Shinyanga	Lake	Young age
+7	L4	new case	negative	46	F	Tanga	Northern	Late adult
+8	L4	new case	NA	38	F	Dar es Salaam	Coastal	Early adult
+9	L4	new case	NA	NA	NA	Dar es Salaam	Coastal	NA
+10	L3	new case	negative	45	M	Tanga	Northern	Late adult
+11	L3	new case	NA	27	M	Dar es Salaam	Coastal	Early adult
+12	L3	new case	negative	41	M	Dar es Salaam	Coastal	Early adult
+13	L4	new case	negative	11	M	Dar es Salaam	Coastal	Child age
+14	L4	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+15	L1	new case	positive	30	M	Tanga	Northern	Early adult
+16	L4	new case	negative	39	F	Kilimanjaro	Northern	Early adult
+17	L4	new case	negative	35	M	Mwanza	Lake	Early adult
+18	L3	new case	positive	32	F	Pwani	Coastal	Early adult
+19	L4	new case	positive	33	M	Iringa	Southern Highlands	Early adult
+20	L3	new case	NA	55	M	Morogoro	Coastal	Late adult
+21	L4	new case	negative	35	M	Tanga	Northern	Early adult
+22	L1	new case	negative	25	F	Tanga	Northern	Early adult
+23	L3	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+24	L4	new case	negative	28	M	Tanga	Northern	Early adult
+25	L1	new case	negative	44	M	Tanga	Northern	Early adult
+26	L3	new case	negative	70	M	Dar es Salaam	Coastal	Old age
+27	L4	new case	NA	25	M	Dar es Salaam	Coastal	Early adult
+28	L4	new case	NA	20	M	Dar es Salaam	Coastal	Young age
+29	L3	new case	negative	27	F	Dar es Salaam	Coastal	Early adult
+30	L3	new case	negative	28	M	Dar es Salaam	Coastal	Early adult
+31	L4	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+32	L3	new case	negative	35	M	Dar es Salaam	Coastal	Early adult
+33	L3	new case	NA	NA	NA	Tanga	Northern	NA
+34	L1	new case	negative	44	M	Mwanza	Lake	Early adult
+35	L4	new case	positive	34	M	Tanga	Northern	Early adult
+36	L3	new case	negative	23	M	Tanga	Northern	Young age
+37	L4	new case	negative	42	M	Pwani	Coastal	Early adult
+38	L1	new case	negative	17	M	Dar es Salaam	Coastal	Young age
+39	L3	NA	NA	NA	NA	NA	NA	NA
+40	L3	new case	negative	34	M	Dar es Salaam	Coastal	Early adult
+41	L1	new case	NA	36	M	Morogoro	Coastal	Early adult
+42	L1	new case	negative	28	M	Arusha	Northern	Early adult
+43	L4	new case	NA	37	M	Dar es Salaam	Coastal	Early adult
+44	L4	new case	NA	31	M	Mwanza	Lake	Early adult
+45	L3	new case	negative	35	M	Pwani	Coastal	Early adult
+46	L4	new case	negative	34	F	Dar es Salaam	Coastal	Early adult
+47	L4	new case	NA	38	M	Dar es Salaam	Coastal	Early adult
+48	L1	new case	NA	30	M	Rukwa	Southern Highlands	Early adult
+49	L4	new case	positive	42	M	Kilimanjaro	Northern	Early adult
+50	L4	new case	negative	60	M	Kilimanjaro	Northern	Late adult
+51	L4	new case	negative	38	M	Dar es Salaam	Coastal	Early adult
+52	L3	new case	NA	35	M	Pwani	Coastal	Early adult
+53	L4	new case	positive	48	M	Iringa	Southern Highlands	Late adult
+54	L4	new case	negative	24	M	Mwanza	Lake	Young age
+55	L3	new case	NA	26	M	Kilimanjaro	Northern	Early adult
+56	L4	new case	positive	28	F	Pwani	Coastal	Early adult
+57	L1	new case	negative	36	M	Mwanza	Lake	Early adult
+58	L3	new case	negative	37	M	Pwani	Coastal	Early adult
+59	L4	new case	positive	35	M	Tanga	Northern	Early adult
+60	L1	new case	negative	35	M	Dar es Salaam	Coastal	Early adult
+61	L4	new case	negative	16	F	Morogoro	Coastal	Young age
+62	L3	new case	NA	39	M	Morogoro	Coastal	Early adult
+63	L4	new case	negative	29	F	Mwanza	Lake	Early adult
+64	L3	new case	positive	39	M	Iringa	Southern Highlands	Early adult
+65	L3	new case	NA	42	M	Mwanza	Lake	Early adult
+66	L4	new case	NA	44	M	Morogoro	Coastal	Early adult
+67	L4	new case	negative	19	F	Arusha	Northern	Young age
+68	L4	new case	negative	48	M	Morogoro	Coastal	Late adult
+69	L3	new case	negative	37	M	Tanga	Northern	Early adult
+70	L3	new case	NA	30	M	Dar es Salaam	Coastal	Early adult
+71	L4	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+72	L3	new case	negative	44	M	Dar es Salaam	Coastal	Early adult
+73	L3	new case	NA	23	M	Mwanza	Lake	Young age
+74	L3	new case	negative	24	F	Pwani	Coastal	Young age
+75	L3	new case	NA	29	M	Morogoro	Coastal	Early adult
+76	L3	new case	NA	39	M	Mwanza	Lake	Early adult
+77	L3	new case	NA	37	M	Dar es Salaam	Coastal	Early adult
+78	L1	new case	negative	22	M	Dar es Salaam	Coastal	Young age
+79	L1	new case	negative	65	M	Dar es Salaam	Coastal	Old age
+80	L3	new case	positive	38	M	Shinyanga	Lake	Early adult
+81	NA	new case	positive	39	M	Kilimanjaro	Northern	Early adult
+82	L1	new case	negative	43	M	Dar es Salaam	Coastal	Early adult
+83	L4	new case	positive	28	F	Shinyanga	Lake	Early adult
+84	L3	new case	positive	32	M	Tanga	Northern	Early adult
+85	L4	new case	NA	73	M	Arusha	Northern	Old age
+86	L1	new case	NA	67	M	Pwani	Coastal	Old age
+87	L1	new case	NA	40	M	Pwani	Coastal	Early adult
+88	L4	new case	NA	43	M	Dar es Salaam	Coastal	Early adult
+89	L1	new case	NA	50	M	Dar es Salaam	Coastal	Late adult
+90	L4	new case	negative	29	M	Arusha	Northern	Early adult
+91	L2	new case	positive	63	M	Tanga	Northern	Late adult
+92	L1	new case	negative	52	M	Pwani	Coastal	Late adult
+93	L3	new case	NA	23	F	Kilimanjaro	Northern	Young age
+94	L4	new case	negative	51	M	Kigoma	Western	Late adult
+95	L2	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+96	L1	new case	negative	42	M	Dar es Salaam	Coastal	Early adult
+97	L3	new case	NA	26	M	Dar es Salaam	Coastal	Early adult
+98	L3	new case	NA	37	M	Arusha	Northern	Early adult
+99	L4	new case	negative	22	M	Pwani	Coastal	Young age
+100	L2	new case	negative	30	M	Tanga	Northern	Early adult
+101	L4	new case	NA	27	M	Iringa	Southern Highlands	Early adult
+102	L4	new case	negative	40	F	Iringa	Southern Highlands	Early adult
+103	L4	new case	NA	48	F	Arusha	Northern	Late adult
+104	L4	new case	NA	30	M	Dar es Salaam	Coastal	Early adult
+105	L4	new case	negative	22	M	Dar es Salaam	Coastal	Young age
+106	L4	new case	NA	44	M	Rukwa	Southern Highlands	Early adult
+107	L1	new case	positive	47	M	Tanga	Northern	Late adult
+108	L2	new case	positive	40	M	Morogoro	Coastal	Early adult
+109	L4	new case	NA	39	F	Mtwara	Coastal	Early adult
+110	L3	new case	NA	21	M	Tanga	Northern	Young age
+111	L4	new case	negative	42	M	Lindi	Coastal	Early adult
+112	L3	new case	NA	45	F	Pwani	Coastal	Late adult
+113	L3	new case	NA	52	M	Dar es Salaam	Coastal	Late adult
+114	L4	new case	NA	22	F	Dar es Salaam	Coastal	Young age
+115	L3	new case	negative	22	M	Arusha	Northern	Young age
+116	L4	new case	negative	43	M	Dar es Salaam	Coastal	Early adult
+117	L4	new case	positive	25	F	Morogoro	Coastal	Early adult
+118	L3	new case	negative	87	M	Arusha	Northern	Old age
+119	L4	new case	negative	23	M	Shinyanga	Lake	Young age
+120	L3	new case	NA	45	F	Arusha	Northern	Late adult
+121	L1	new case	NA	19	M	Dar es Salaam	Coastal	Young age
+122	L4	new case	NA	50	M	Dar es Salaam	Coastal	Late adult
+123	L1	NA	NA	NA	NA	NA	NA	NA
+124	L1	new case	NA	33	M	Arusha	Northern	Early adult
+125	L4	new case	NA	26	M	Dar es Salaam	Coastal	Early adult
+126	L3	new case	NA	20	F	Mtwara	Coastal	Young age
+127	L3	new case	NA	50	M	Arusha	Northern	Late adult
+128	L1	new case	NA	40	M	Pwani	Coastal	Early adult
+129	L1	new case	NA	50	F	Tanga	Northern	Late adult
+130	L4	new case	negative	30	F	Mwanza	Lake	Early adult
+131	L3	new case	negative	34	M	Dar es Salaam	Coastal	Early adult
+132	L2	new case	negative	44	F	Dar es Salaam	Coastal	Early adult
+133	L3	new case	positive	51	F	Dar es Salaam	Coastal	Late adult
+134	L4	new case	NA	26	M	Dar es Salaam	Coastal	Early adult
+135	L3	new case	positive	30	M	Morogoro	Coastal	Early adult
+136	L3	new case	negative	34	M	Shinyanga	Lake	Early adult
+137	L1	new case	NA	44	F	Tabora	Central	Early adult
+138	L4	new case	NA	50	M	Arusha	Northern	Late adult
+139	L3	new case	NA	28	M	Pwani	Coastal	Early adult
+140	L3	new case	NA	22	M	Dar es Salaam	Coastal	Young age
+141	L4	NA	NA	NA	NA	NA	NA	NA
+142	L1	new case	positive	30	M	Dar es Salaam	Coastal	Early adult
+143	L4	new case	NA	29	M	Dar es Salaam	Coastal	Early adult
+144	L4	new case	negative	29	F	Tanga	Northern	Early adult
+145	L3	new case	negative	38	F	Arusha	Northern	Early adult
+146	L2	new case	negative	24	M	Dar es Salaam	Coastal	Young age
+147	L3	new case	NA	50	M	Arusha	Northern	Late adult
+148	L4	new case	NA	38	M	Arusha	Northern	Early adult
+149	L2	new case	NA	22	M	Dar es Salaam	Coastal	Young age
+150	L4	new case	NA	NA	M	Dar es Salaam	Coastal	NA
+151	L4	new case	NA	22	F	Dar es Salaam	Coastal	Young age
+152	L1	NA	NA	NA	NA	NA	NA	NA
+153	L3	new case	negative	31	M	Tanga	Northern	Early adult
+154	L4	new case	NA	32	M	Kilimanjaro	Northern	Early adult
+155	L4	new case	positive	52	M	Morogoro	Coastal	Late adult
+156	L3	new case	positive	43	F	Pwani	Coastal	Early adult
+157	L4	new case	NA	41	F	Arusha	Northern	Early adult
+158	L4	new case	negative	18	F	Dar es Salaam	Coastal	Young age
+159	L2	new case	NA	43	M	Pwani	Coastal	Early adult
+160	L3	new case	NA	22	F	Dar es Salaam	Coastal	Young age
+161	L4	new case	NA	22	M	Mwanza	Lake	Young age
+162	L4	new case	NA	18	M	Kigoma	Western	Young age
+163	L1	new case	NA	29	M	Dar es Salaam	Coastal	Early adult
+164	L4	new case	negative	23	M	Pwani	Coastal	Young age
+165	L4	new case	positive	28	F	Iringa	Southern Highlands	Early adult
+166	L3	new case	NA	44	M	Mwanza	Lake	Early adult
+167	L3	new case	NA	46	M	Tanga	Northern	Late adult
+168	L1	new case	NA	49	M	Tanga	Northern	Late adult
+169	L3	new case	NA	36	F	Dar es Salaam	Coastal	Early adult
+170	L4	new case	NA	51	M	Morogoro	Coastal	Late adult
+171	L4	new case	NA	50	M	Kigoma	Western	Late adult
+172	L4	new case	NA	30	M	Dar es Salaam	Coastal	Early adult
+173	L4	new case	NA	29	F	Dar es Salaam	Coastal	Early adult
+174	L4	new case	negative	22	F	Dar es Salaam	Coastal	Young age
+175	L4	new case	NA	NA	NA	Mwanza	Lake	NA
+176	L1	new case	NA	28	M	Tanga	Northern	Early adult
+177	L4	new case	NA	74	M	Mtwara	Coastal	Old age
+178	L1	new case	NA	27	F	Dar es Salaam	Coastal	Early adult
+179	L4	new case	NA	22	M	Tanga	Northern	Young age
+180	L3	new case	NA	30	F	Iringa	Southern Highlands	Early adult
+181	L3	new case	NA	22	F	Dar es Salaam	Coastal	Young age
+182	L3	new case	positive	24	F	Mwanza	Lake	Young age
+183	L3	new case	NA	50	M	Rukwa	Southern Highlands	Late adult
+184	L3	new case	NA	41	M	Dar es Salaam	Coastal	Early adult
+185	L1	new case	NA	81	M	Mwanza	Lake	Old age
+186	L1	new case	NA	47	M	Mtwara	Coastal	Late adult
+187	L4	new case	NA	50	M	Morogoro	Coastal	Late adult
+188	L3	new case	NA	24	M	Morogoro	Coastal	Young age
+189	L4	new case	NA	41	M	Lindi	Coastal	Early adult
+190	L3	new case	negative	28	M	Dar es Salaam	Coastal	Early adult
+191	L4	new case	NA	26	M	Pwani	Coastal	Early adult
+192	L1	new case	NA	32	M	Mwanza	Lake	Early adult
+193	L4	new case	NA	27	F	Tanga	Northern	Early adult
+194	L3	new case	NA	40	M	Pwani	Coastal	Early adult
+195	L4	new case	NA	NA	M	Morogoro	Coastal	NA
+196	L4	new case	NA	40	M	Morogoro	Coastal	Early adult
+197	L4	new case	NA	37	M	Shinyanga	Lake	Early adult
+198	L4	new case	NA	30	F	Dar es Salaam	Coastal	Early adult
+199	L4	new case	negative	44	M	Dar es Salaam	Coastal	Early adult
+200	L1	new case	NA	25	M	Mwanza	Lake	Early adult
+201	L3	new case	NA	32	M	Tanga	Northern	Early adult
+202	L3	new case	NA	21	M	Pwani	Coastal	Young age
+203	L1	new case	NA	44	M	Shinyanga	Lake	Early adult
+204	L4	new case	NA	30	M	Iringa	Southern Highlands	Early adult
+205	L4	new case	NA	28	F	Iringa	Southern Highlands	Early adult
+206	L3	new case	NA	70	M	Iringa	Southern Highlands	Old age
+207	L4	new case	negative	32	M	Iringa	Southern Highlands	Early adult
+208	L3	new case	negative	20	M	Dar es Salaam	Coastal	Young age
+209	L4	new case	NA	24	M	Mwanza	Lake	Young age
+210	L1	new case	NA	45	M	Mwanza	Lake	Late adult
+211	L3	new case	NA	55	M	Morogoro	Coastal	Late adult
+212	L3	new case	NA	39	M	Pwani	Coastal	Early adult
+213	L4	new case	NA	40	M	Arusha	Northern	Early adult
+214	L3	new case	NA	35	M	Tanga	Northern	Early adult
+215	L3	NA	NA	NA	NA	NA	NA	NA
+216	L2	new case	negative	27	F	Mwanza	Lake	Early adult
+217	L4	new case	NA	30	F	Dar es Salaam	Coastal	Early adult
+218	L2	new case	positive	48	M	Kilimanjaro	Northern	Late adult
+219	L4	new case	NA	32	F	Dar es Salaam	Coastal	Early adult
+220	L4	new case	NA	38	M	Dar es Salaam	Coastal	Early adult
+221	L4	new case	NA	16	F	Arusha	Northern	Young age
+222	L4	new case	NA	39	F	Shinyanga	Lake	Early adult
+223	L4	new case	NA	28	F	Shinyanga	Lake	Early adult
+224	L1	new case	NA	40	M	Shinyanga	Lake	Early adult
+225	L1	new case	positive	40	M	Mwanza	Lake	Early adult
+226	L3	new case	NA	25	M	Morogoro	Coastal	Early adult
+227	L3	new case	negative	21	M	Dar es Salaam	Coastal	Young age
+228	L4	new case	NA	42	F	Pwani	Coastal	Early adult
+229	L4	new case	NA	37	F	Arusha	Northern	Early adult
+230	L1	new case	NA	47	M	Arusha	Northern	Late adult
+231	L4	new case	NA	37	M	Shinyanga	Lake	Early adult
+232	L4	NA	NA	NA	NA	NA	NA	NA
+233	L4	new case	negative	46	M	Mwanza	Lake	Late adult
+234	L3	new case	NA	37	M	Morogoro	Coastal	Early adult
+235	L4	new case	NA	29	M	Dar es Salaam	Coastal	Early adult
+236	L1	new case	NA	30	F	Kilimanjaro	Northern	Early adult
+237	L3	new case	negative	48	F	Mwanza	Lake	Late adult
+238	L4	new case	NA	50	M	Morogoro	Coastal	Late adult
+239	L4	new case	positive	21	M	Mwanza	Lake	Young age
+240	L4	new case	NA	52	M	Arusha	Northern	Late adult
+241	L4	new case	positive	15	M	Iringa	Southern Highlands	Young age
+242	L3	new case	negative	14	F	Dar es Salaam	Coastal	Child age
+243	L4	new case	NA	NA	F	Dar es Salaam	Coastal	NA
+244	L4	new case	NA	36	F	Dar es Salaam	Coastal	Early adult
+245	L4	new case	negative	20	F	Dar es Salaam	Coastal	Young age
+246	L4	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+247	L2	new case	negative	32	F	Dar es Salaam	Coastal	Early adult
+248	L1	new case	NA	69	M	Dar es Salaam	Coastal	Old age
+249	L2	retreatment	NA	32	M	Dar es Salaam	Coastal	Early adult
+250	L4	new case	NA	35	M	Dar es Salaam	Coastal	Early adult
+251	L4	new case	NA	44	F	Dar es Salaam	Coastal	Early adult
+252	L4	new case	positive	35	F	Dar es Salaam	Coastal	Early adult
+253	L4	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+254	L1	new case	positive	30	F	Dar es Salaam	Coastal	Early adult
+255	L4	new case	positive	49	F	Tanga	Northern	Late adult
+256	L3	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+257	L4	retreatment	NA	25	M	Kilimanjaro	Northern	Early adult
+258	L4	new case	NA	27	M	Shinyanga	Lake	Early adult
+259	L2	new case	negative	NA	M	Dar es Salaam	Coastal	NA
+260	L1	new case	negative	28	M	Dar es Salaam	Coastal	Early adult
+261	L4	new case	positive	33	F	Dar es Salaam	Coastal	Early adult
+262	L4	new case	NA	26	M	Dar es Salaam	Coastal	Early adult
+263	L3	new case	positive	34	M	Dar es Salaam	Coastal	Early adult
+264	L3	NA	NA	NA	NA	NA	NA	NA
+265	L4	new case	NA	35	M	Dar es Salaam	Coastal	Early adult
+266	L3	new case	positive	43	M	Dar es Salaam	Coastal	Early adult
+267	L3	new case	negative	40	M	Tanga	Northern	Early adult
+268	L3	new case	NA	35	F	Dar es Salaam	Coastal	Early adult
+269	L4	new case	negative	43	M	Dar es Salaam	Coastal	Early adult
+270	L4	retreatment	negative	22	M	Tanga	Northern	Young age
+271	L3	NA	NA	NA	NA	NA	NA	NA
+272	NA	NA	NA	NA	NA	NA	NA	NA
+273	L3	new case	negative	30	M	Tanga	Northern	Early adult
+274	L3	new case	NA	38	F	Shinyanga	Lake	Early adult
+275	L1	new case	negative	31	M	Dar es Salaam	Coastal	Early adult
+276	L1	new case	NA	52	M	Dar es Salaam	Coastal	Late adult
+277	L4	new case	NA	36	M	Kilimanjaro	Northern	Early adult
+278	L4	new case	negative	26	M	Dar es Salaam	Coastal	Early adult
+279	L4	new case	NA	27	M	Dar es Salaam	Coastal	Early adult
+280	L4	new case	positive	33	F	Dar es Salaam	Coastal	Early adult
+281	L2	retreatment	NA	27	F	Dar es Salaam	Coastal	Early adult
+282	L4	new case	NA	38	M	Kilimanjaro	Northern	Early adult
+283	NA	new case	positive	20	F	Lindi	Coastal	Young age
+284	L4	NA	NA	NA	NA	NA	NA	NA
+285	L4	new case	NA	34	M	Kilimanjaro	Northern	Early adult
+286	L4	new case	negative	42	F	Lindi	Coastal	Early adult
+287	L4	new case	positive	15	M	Dar es Salaam	Coastal	Young age
+288	L4	NA	NA	NA	NA	NA	NA	NA
+289	L1	new case	negative	33	M	Dar es Salaam	Coastal	Early adult
+290	L2	retreatment	positive	28	F	Dar es Salaam	Coastal	Early adult
+291	L4	new case	negative	25	M	Tanga	Northern	Early adult
+292	L4	new case	NA	25	M	Morogoro	Coastal	Early adult
+293	L3	new case	positive	36	F	Arusha	Northern	Early adult
+294	L3	new case	NA	23	F	Tanga	Northern	Young age
+295	L3	new case	NA	62	M	Morogoro	Coastal	Late adult
+296	L4	new case	negative	38	M	Mwanza	Lake	Early adult
+297	NA	new case	negative	47	F	Lindi	Coastal	Late adult
+298	L4	new case	negative	NA	M	Dar es Salaam	Coastal	NA
+299	L3	new case	negative	35	M	Tanga	Northern	Early adult
+300	L4	new case	NA	55	M	Dar es Salaam	Coastal	Late adult
+301	L3	new case	NA	45	M	Morogoro	Coastal	Late adult
+302	L3	retreatment	positive	44	M	Kilimanjaro	Northern	Early adult
+303	NA	new case	NA	29	M	Iringa	Southern Highlands	Early adult
+304	L4	retreatment	NA	64	M	Dar es Salaam	Coastal	Late adult
+305	L3	new case	negative	27	M	Tanga	Northern	Early adult
+306	L4	new case	NA	40	M	Tanga	Northern	Early adult
+307	L4	new case	negative	22	M	Kilimanjaro	Northern	Young age
+308	L2	new case	negative	50	M	Kilimanjaro	Northern	Late adult
+309	L4	new case	negative	27	M	Kilimanjaro	Northern	Early adult
+310	L4	new case	positive	36	M	Iringa	Southern Highlands	Early adult
+311	L4	new case	NA	43	M	Shinyanga	Lake	Early adult
+312	L4	new case	negative	32	M	Mwanza	Lake	Early adult
+313	L3	retreatment	negative	27	M	Kilimanjaro	Northern	Early adult
+314	L1	new case	NA	25	M	Mwanza	Lake	Early adult
+315	L2	retreatment	NA	20	M	NA	NA	Young age
+316	L3	retreatment	NA	30	M	Pwani	Coastal	Early adult
+317	L4	retreatment	positive	38	M	Shinyanga	Lake	Early adult
+318	L3	new case	NA	34	M	Dar es Salaam	Coastal	Early adult
+319	L4	new case	NA	38	M	Morogoro	Coastal	Early adult
+320	L2	new case	NA	28	M	Tanga	Northern	Early adult
+321	L4	new case	NA	29	M	Tanga	Northern	Early adult
+322	L4	new case	NA	32	M	Morogoro	Coastal	Early adult
+323	L4	new case	negative	NA	M	Tanga	Northern	NA
+324	L3	new case	NA	26	M	Dar es Salaam	Coastal	Early adult
+325	L3	new case	NA	22	M	Dar es Salaam	Coastal	Young age
+326	L3	new case	NA	45	M	Tanga	Northern	Late adult
+327	L3	new case	NA	35	M	Dar es Salaam	Coastal	Early adult
+328	L4	new case	NA	21	F	Arusha	Northern	Young age
+329	L4	new case	NA	60	M	Dar es Salaam	Coastal	Late adult
+330	L1	new case	NA	32	F	Dar es Salaam	Coastal	Early adult
+331	L4	new case	NA	37	M	Morogoro	Coastal	Early adult
+332	L4	new case	negative	53	M	Shinyanga	Lake	Late adult
+333	L3	new case	NA	NA	M	Dar es Salaam	Coastal	NA
+334	L3	new case	positive	38	F	Iringa	Southern Highlands	Early adult
+335	L1	new case	NA	27	M	Dar es Salaam	Coastal	Early adult
+336	L1	new case	negative	19	M	Dar es Salaam	Coastal	Young age
+337	L1	new case	NA	19	F	Dar es Salaam	Coastal	Young age
+338	L3	NA	NA	NA	NA	NA	NA	NA
+339	L1	new case	NA	50	F	Iringa	Southern Highlands	Late adult
+340	L4	new case	NA	46	M	Iringa	Southern Highlands	Late adult
+341	L4	new case	NA	15	F	Dar es Salaam	Coastal	Young age
+342	L4	new case	NA	24	M	Morogoro	Coastal	Young age
+343	L4	retreatment	negative	55	F	Mwanza	Lake	Late adult
+344	L3	retreatment	NA	NA	M	Dar es Salaam	Coastal	NA
+345	L4	new case	NA	67	F	Dar es Salaam	Coastal	Old age
+346	L3	new case	NA	37	M	Dar es Salaam	Coastal	Early adult
+347	L4	new case	negative	28	M	Dar es Salaam	Coastal	Early adult
+348	L3	new case	NA	40	M	Rukwa	Southern Highlands	Early adult
+349	L4	new case	NA	38	F	Kilimanjaro	Northern	Early adult
+350	L4	new case	NA	32	M	Arusha	Northern	Early adult
+351	L2	new case	NA	20	M	Tanga	Northern	Young age
+352	L4	new case	NA	19	F	Dar es Salaam	Coastal	Young age
+353	L4	new case	NA	NA	M	Dar es Salaam	Coastal	NA
+354	NA	new case	NA	36	M	Dar es Salaam	Coastal	Early adult
+355	L4	new case	NA	59	M	Tanga	Northern	Late adult
+356	NA	new case	NA	23	F	Dar es Salaam	Coastal	Young age
+357	L1	NA	NA	NA	NA	NA	NA	NA
+358	L3	retreatment	NA	NA	M	Dar es Salaam	Coastal	NA
+359	L4	new case	positive	66	F	Iringa	Southern Highlands	Old age
+360	L4	new case	NA	33	F	Shinyanga	Lake	Early adult
+361	L3	new case	NA	29	M	Dar es Salaam	Coastal	Early adult
+362	L4	new case	NA	41	M	Dar es Salaam	Coastal	Early adult
+363	L4	new case	positive	30	M	Dar es Salaam	Coastal	Early adult
+364	L3	retreatment	negative	34	M	Ruvuma	Southern Highlands	Early adult
+365	L4	new case	negative	55	F	Dar es Salaam	Coastal	Late adult
+366	L3	NA	NA	NA	NA	NA	NA	NA
+367	L3	retreatment	positive	39	F	Dar es Salaam	Coastal	Early adult
+368	L1	new case	negative	48	M	Dar es Salaam	Coastal	Late adult
+369	L3	NA	NA	NA	NA	NA	NA	NA
+370	L4	new case	negative	30	M	Tanga	Northern	Early adult
+371	L2	retreatment	negative	29	M	Kilimanjaro	Northern	Early adult
+372	L3	new case	NA	42	M	Dar es Salaam	Coastal	Early adult
+373	L3	new case	NA	30	F	Dar es Salaam	Coastal	Early adult
+374	L4	new case	negative	54	M	Dar es Salaam	Coastal	Late adult
+375	L1	new case	NA	28	M	Dar es Salaam	Coastal	Early adult
+376	L3	NA	NA	NA	NA	NA	NA	NA
+377	L1	new case	NA	25	M	Dar es Salaam	Coastal	Early adult
+378	L4	new case	negative	45	F	Mwanza	Lake	Late adult
+379	L4	new case	NA	39	F	Arusha	Northern	Early adult
+380	L4	new case	positive	27	F	Tanga	Northern	Early adult
+381	L3	new case	NA	45	M	Dar es Salaam	Coastal	Late adult
+382	L3	new case	NA	NA	NA	NA	NA	NA
+383	NA	new case	negative	39	M	Dar es Salaam	Coastal	Early adult
+384	L3	new case	positive	37	F	Dar es Salaam	Coastal	Early adult
+385	L4	new case	negative	58	M	Lindi	Coastal	Late adult
+386	L4	new case	NA	16	M	Dar es Salaam	Coastal	Young age
+387	L4	new case	positive	41	M	Mwanza	Lake	Early adult
+388	L3	new case	positive	39	M	Dar es Salaam	Coastal	Early adult
+389	L3	new case	positive	31	F	Dar es Salaam	Coastal	Early adult
+390	L3	new case	NA	38	M	Iringa	Southern Highlands	Early adult
+391	L3	NA	NA	NA	NA	NA	NA	NA
+392	L2	new case	negative	40	F	Morogoro	Coastal	Early adult
+393	L4	new case	NA	NA	NA	Dar es Salaam	Coastal	NA
+394	L4	new case	NA	NA	F	Dar es Salaam	Coastal	NA
+395	L3	new case	NA	49	M	Pwani	Coastal	Late adult
+396	L3	new case	NA	49	M	Mwanza	Lake	Late adult
+397	L1	new case	NA	32	M	Pwani	Coastal	Early adult
+398	L1	new case	NA	28	M	Shinyanga	Lake	Early adult
+399	L2	new case	NA	33	M	Mbeya	Southern Highlands	Early adult
+400	L2	new case	NA	14	F	Kilimanjaro	Northern	Child age
+401	L1	new case	NA	32	F	Kilimanjaro	Northern	Early adult
+402	L3	new case	NA	28	F	Morogoro	Coastal	Early adult
+403	L4	new case	NA	28	M	Morogoro	Coastal	Early adult
+404	L4	new case	NA	36	M	Pwani	Coastal	Early adult
+405	L4	new case	NA	30	M	Mwanza	Lake	Early adult
+406	L3	new case	NA	45	M	Morogoro	Coastal	Late adult
+407	L4	new case	NA	22	F	Morogoro	Coastal	Young age
+408	L3	new case	NA	34	M	Kigoma	Western	Early adult
+409	L3	new case	NA	17	M	Dar es Salaam	Coastal	Young age
+410	L3	new case	NA	42	M	Dar es Salaam	Coastal	Early adult
+411	L4	new case	NA	18	M	Dar es Salaam	Coastal	Young age
+412	L4	new case	NA	38	M	Dar es Salaam	Coastal	Early adult
+413	L2	new case	NA	46	M	Dar es Salaam	Coastal	Late adult
+414	L4	new case	NA	27	M	Dar es Salaam	Coastal	Early adult
+415	L3	new case	NA	35	M	Dar es Salaam	Coastal	Early adult
+416	L3	new case	NA	30	M	Iringa	Southern Highlands	Early adult
+417	L4	new case	NA	42	M	Mwanza	Lake	Early adult
+418	L3	new case	NA	36	M	Mwanza	Lake	Early adult
+419	L3	new case	NA	NA	M	Tanga	Northern	NA
+420	L1	new case	NA	42	F	Pwani	Coastal	Early adult
+421	L4	new case	NA	16	M	Kilimanjaro	Northern	Young age
+422	L3	new case	NA	42	F	Tanga	Northern	Early adult
+423	L3	new case	NA	30	M	Tanga	Northern	Early adult
+424	L3	new case	NA	29	M	Dar es Salaam	Coastal	Early adult
+425	L4	new case	NA	34	M	Dar es Salaam	Coastal	Early adult
+426	L2	new case	NA	30	M	Pwani	Coastal	Early adult
+427	L1	new case	NA	54	M	Mwanza	Lake	Late adult
+428	L4	new case	NA	34	M	Shinyanga	Lake	Early adult
+429	L1	new case	NA	56	M	Shinyanga	Lake	Late adult
+430	L3	new case	NA	21	M	Pwani	Coastal	Young age
+431	L3	new case	NA	32	F	Iringa	Southern Highlands	Early adult
+432	L4	new case	NA	47	M	Shinyanga	Lake	Late adult
+433	L3	new case	NA	19	M	Dar es Salaam	Coastal	Young age
+434	L3	new case	negative	38	F	Dar es Salaam	Coastal	Early adult
+435	L3	new case	NA	42	F	Dar es Salaam	Coastal	Early adult
+436	L1	new case	negative	30	M	Mwanza	Lake	Early adult
+437	L3	new case	NA	22	M	Dar es Salaam	Coastal	Young age
+438	L3	NA	NA	NA	NA	NA	NA	NA
+439	L3	new case	NA	42	M	Morogoro	Coastal	Early adult
+440	L4	new case	NA	40	M	Dar es Salaam	Coastal	Early adult
+441	L1	new case	positive	48	M	Mwanza	Lake	Late adult
+442	L4	new case	negative	NA	M	Dar es Salaam	Coastal	NA
+443	L4	new case	negative	22	F	Pwani	Coastal	Young age
+444	L4	new case	positive	30	F	Ruvuma	Southern Highlands	Early adult
+445	L4	new case	NA	41	M	Shinyanga	Lake	Early adult
+446	L3	retreatment	NA	60	M	Mtwara	Coastal	Late adult
+447	NA	retreatment	positive	44	M	Shinyanga	Lake	Early adult
+448	L3	new case	NA	24	M	Kilimanjaro	Northern	Young age
+449	NA	new case	NA	19	M	Dar es Salaam	Coastal	Young age
+450	L4	new case	negative	20	F	Dar es Salaam	Coastal	Young age
+451	L3	new case	negative	44	M	Dar es Salaam	Coastal	Early adult
+452	L3	new case	NA	44	M	Dar es Salaam	Coastal	Early adult
+453	L1	NA	NA	NA	NA	NA	NA	NA
+454	L3	new case	negative	18	F	Tanga	Northern	Young age
+455	L4	new case	NA	30	M	Dar es Salaam	Coastal	Early adult
+456	L3	new case	negative	18	M	Dar es Salaam	Coastal	Young age
+457	L4	new case	NA	45	M	Dar es Salaam	Coastal	Late adult
+458	L3	new case	NA	28	M	Arusha	Northern	Early adult
+459	L4	new case	NA	31	M	Kilimanjaro	Northern	Early adult
+460	L3	new case	NA	36	M	Arusha	Northern	Early adult
+461	L1	new case	NA	49	M	Dar es Salaam	Coastal	Late adult
+462	L4	new case	negative	55	F	Lindi	Coastal	Late adult
+463	L3	new case	positive	30	F	Pwani	Coastal	Early adult
+464	L1	new case	positive	39	F	Dar es Salaam	Coastal	Early adult
+465	L3	new case	NA	42	M	Kilimanjaro	Northern	Early adult
+466	L3	new case	NA	39	M	Arusha	Northern	Early adult
+467	L2	new case	negative	23	M	Dar es Salaam	Coastal	Young age
+468	L4	new case	NA	34	M	Iringa	Southern Highlands	Early adult
+469	L1	new case	positive	46	M	Dar es Salaam	Coastal	Late adult
+470	L4	retreatment	NA	41	M	Morogoro	Coastal	Early adult
+471	NA	NA	NA	NA	NA	NA	NA	NA
+472	L4	new case	NA	14	F	Pwani	Coastal	Child age
+473	L4	new case	NA	50	NA	Mbeya	Southern Highlands	Late adult
+474	L3	new case	negative	35	M	Dar es Salaam	Coastal	Early adult
+475	L2	new case	NA	59	M	Tabora	Central	Late adult
+476	L4	new case	negative	60	F	Shinyanga	Lake	Late adult
+477	L4	new case	negative	34	M	Pwani	Coastal	Early adult
+478	L4	new case	NA	30	M	Pwani	Coastal	Early adult
+479	L3	new case	negative	39	M	Pwani	Coastal	Early adult
+480	L3	new case	negative	35	M	Tanga	Northern	Early adult
+481	L3	retreatment	negative	32	M	Dar es Salaam	Coastal	Early adult
+482	L4	new case	NA	44	M	Shinyanga	Lake	Early adult
+483	L4	new case	negative	23	M	Dar es Salaam	Coastal	Young age
+484	L4	retreatment	NA	NA	NA	Tanga	Northern	NA
+485	L4	new case	NA	40	M	Arusha	Northern	Early adult
+486	L4	new case	positive	26	F	Mwanza	Lake	Early adult
+487	L3	new case	positive	30	M	Pwani	Coastal	Early adult
+488	L1	new case	positive	32	F	Pwani	Coastal	Early adult
+489	L1	new case	NA	48	M	Tabora	Central	Late adult
+490	L1	new case	negative	30	F	Dar es Salaam	Coastal	Early adult
+491	L4	new case	NA	30	F	Shinyanga	Lake	Early adult
+492	L2	new case	NA	63	M	Pwani	Coastal	Late adult
+493	L4	new case	negative	27	F	Kilimanjaro	Northern	Early adult
+494	L4	new case	positive	55	F	Iringa	Southern Highlands	Late adult
+495	L4	new case	negative	23	F	Mwanza	Lake	Young age
+496	L4	new case	positive	42	M	Tanga	Northern	Early adult
+497	L3	new case	positive	37	F	Mwanza	Lake	Early adult
+498	NA	new case	NA	NA	F	Tabora	Central	NA
+499	L4	new case	negative	37	M	Dar es Salaam	Coastal	Early adult
+500	L1	new case	NA	28	M	Tabora	Central	Early adult
+501	L1	new case	negative	48	F	Mwanza	Lake	Late adult
+502	L2	new case	negative	17	F	Pwani	Coastal	Young age
+503	L1	new case	positive	39	M	Iringa	Southern Highlands	Early adult
+504	L3	new case	negative	27	M	Pwani	Coastal	Early adult
+505	L4	new case	NA	38	F	Tanga	Northern	Early adult
+506	L1	new case	negative	56	M	Shinyanga	Lake	Late adult
+507	L4	new case	positive	62	M	Pwani	Coastal	Late adult
+508	L1	new case	NA	36	M	Dar es Salaam	Coastal	Early adult
+509	L4	new case	NA	52	F	Tabora	Central	Late adult
+510	L4	new case	negative	54	M	Kilimanjaro	Northern	Late adult
+511	L4	new case	NA	26	M	Dar es Salaam	Coastal	Early adult
+512	L3	new case	positive	20	F	Mwanza	Lake	Young age
+513	L4	new case	NA	50	M	Tanga	Northern	Late adult
+514	L3	new case	NA	37	F	Tanga	Northern	Early adult
+515	L3	new case	negative	NA	M	Kilimanjaro	Northern	NA
+516	L1	new case	NA	40	M	Pwani	Coastal	Early adult
+517	L4	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+518	L4	new case	negative	28	M	Dar es Salaam	Coastal	Early adult
+519	L3	new case	NA	39	M	Dar es Salaam	Coastal	Early adult
+520	L3	new case	negative	34	M	Pwani	Coastal	Early adult
+521	L3	new case	NA	28	F	Iringa	Southern Highlands	Early adult
+522	L1	new case	positive	74	M	Tanga	Northern	Old age
+523	L3	new case	negative	37	M	Kilimanjaro	Northern	Early adult
+524	L4	new case	NA	42	F	Pwani	Coastal	Early adult
+525	L4	new case	NA	29	M	Mara	Lake	Early adult
+526	L1	new case	negative	39	M	Mwanza	Lake	Early adult
+527	L3	new case	negative	48	M	Kilimanjaro	Northern	Late adult
+528	L4	new case	NA	51	M	Arusha	Northern	Late adult
+529	L3	new case	NA	40	M	Arusha	Northern	Early adult
+530	L1	new case	positive	30	F	Pwani	Coastal	Early adult
+531	L4	new case	negative	37	M	Pwani	Coastal	Early adult
+532	L3	new case	NA	NA	M	Kilimanjaro	Northern	NA
+533	L3	new case	NA	48	M	Mtwara	Coastal	Late adult
+534	NA	new case	NA	19	F	Dar es Salaam	Coastal	Young age
+535	L3	new case	NA	50	M	Tabora	Central	Late adult
+536	L3	new case	NA	22	M	Shinyanga	Lake	Young age
+537	L3	new case	NA	27	M	Arusha	Northern	Early adult
+538	L4	new case	NA	37	F	Arusha	Northern	Early adult
+539	L1	new case	positive	40	F	Mwanza	Lake	Early adult
+540	L1	new case	positive	56	M	Mwanza	Lake	Late adult
+541	L4	new case	negative	39	M	Pwani	Coastal	Early adult
+542	L4	new case	NA	22	F	Mtwara	Coastal	Young age
+543	L4	new case	negative	17	F	Dar es Salaam	Coastal	Young age
+544	L3	new case	negative	22	F	Iringa	Southern Highlands	Young age
+545	L3	new case	negative	52	M	Iringa	Southern Highlands	Late adult
+546	L3	new case	NA	28	M	Lindi	Coastal	Early adult
+547	L3	new case	NA	42	M	Arusha	Northern	Early adult
+548	L3	new case	NA	30	M	Kilimanjaro	Northern	Early adult
+549	L4	new case	NA	26	M	Morogoro	Coastal	Early adult
+550	L1	new case	negative	34	F	Tanga	Northern	Early adult
+551	L3	new case	negative	45	M	Dar es Salaam	Coastal	Late adult
+552	L4	new case	positive	40	F	Pwani	Coastal	Early adult
+553	L3	new case	NA	20	M	Dar es Salaam	Coastal	Young age
+554	L1	new case	positive	40	M	Tanga	Northern	Early adult
+555	L3	new case	NA	38	M	Dar es Salaam	Coastal	Early adult
+556	L3	new case	negative	18	M	Pwani	Coastal	Young age
+557	L3	retreatment	positive	46	M	Dar es Salaam	Coastal	Late adult
+558	L3	new case	positive	32	F	Iringa	Southern Highlands	Early adult
+559	L3	new case	NA	24	F	Dar es Salaam	Coastal	Young age
+560	L4	new case	negative	23	M	Dar es Salaam	Coastal	Young age
+561	L3	new case	NA	22	M	Tanga	Northern	Young age
+562	L4	new case	negative	18	M	Shinyanga	Lake	Young age
+563	L1	new case	NA	NA	M	Dar es Salaam	Coastal	NA
+564	L4	retreatment	NA	32	M	Kagera	Lake	Early adult
+565	L3	new case	negative	30	M	Pwani	Coastal	Early adult
+566	L3	new case	NA	NA	M	Dar es Salaam	Coastal	NA
+567	L4	new case	NA	44	F	Arusha	Northern	Early adult
+568	L4	new case	negative	26	M	Dar es Salaam	Coastal	Early adult
+569	L3	new case	positive	40	F	Tanga	Northern	Early adult
+570	NA	new case	positive	42	M	Dar es Salaam	Coastal	Early adult
+571	L4	new case	negative	30	F	Mwanza	Lake	Early adult
+572	L4	new case	NA	24	M	Pwani	Coastal	Young age
+573	L2	new case	positive	27	F	Iringa	Southern Highlands	Early adult
+574	L2	new case	positive	34	F	Kilimanjaro	Northern	Early adult
+575	L4	retreatment	positive	52	M	Kilimanjaro	Northern	Late adult
+576	L2	new case	negative	60	M	Dar es Salaam	Coastal	Late adult
+577	L4	new case	negative	62	M	Mwanza	Lake	Late adult
+578	L3	new case	NA	24	M	Morogoro	Coastal	Young age
+579	L4	new case	NA	32	M	Dar es Salaam	Coastal	Early adult
+580	L4	new case	NA	30	F	Ruvuma	Southern Highlands	Early adult
+581	NA	NA	NA	NA	NA	NA	NA	NA
+582	L4	new case	positive	35	M	Tanga	Northern	Early adult
+583	L1	new case	NA	27	M	Pwani	Coastal	Early adult
+584	L4	new case	NA	40	F	Kigoma	Western	Early adult
+585	L3	new case	NA	35	M	Dar es Salaam	Coastal	Early adult
+586	L4	new case	NA	52	M	Dar es Salaam	Coastal	Late adult
+587	L3	new case	positive	39	F	Dar es Salaam	Coastal	Early adult
+588	L4	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+589	L4	new case	positive	53	M	Morogoro	Coastal	Late adult
+590	L4	new case	positive	33	F	Lindi	Coastal	Early adult
+591	L3	new case	negative	NA	M	Pwani	Coastal	NA
+592	L4	new case	NA	26	F	Mwanza	Lake	Early adult
+593	L4	new case	NA	26	F	Mtwara	Coastal	Early adult
+594	L4	new case	NA	33	M	Pwani	Coastal	Early adult
+595	L2	new case	NA	42	M	Kilimanjaro	Northern	Early adult
+596	L4	new case	NA	38	M	Dar es Salaam	Coastal	Early adult
+597	NA	new case	NA	38	M	Morogoro	Coastal	Early adult
+598	L1	new case	NA	19	M	Morogoro	Coastal	Young age
+599	L4	retreatment	NA	38	M	NA	NA	Early adult
+600	L4	new case	NA	24	F	Dar es Salaam	Coastal	Young age
+601	L4	new case	NA	27	M	Morogoro	Coastal	Early adult
+602	L4	new case	NA	49	F	Rukwa	Southern Highlands	Late adult
+603	L4	new case	NA	33	F	Dar es Salaam	Coastal	Early adult
+604	L4	new case	NA	25	M	Dar es Salaam	Coastal	Early adult
+605	L4	new case	NA	34	M	Kigoma	Western	Early adult
+606	L4	new case	NA	38	M	Dar es Salaam	Coastal	Early adult
+607	L3	new case	negative	37	M	Mwanza	Lake	Early adult
+608	L4	NA	NA	NA	NA	NA	NA	NA
+609	L4	new case	NA	31	M	Pwani	Coastal	Early adult
+610	L4	NA	NA	NA	NA	NA	NA	NA
+611	L4	new case	NA	32	M	Dar es Salaam	Coastal	Early adult
+612	L1	new case	NA	48	M	Dar es Salaam	Coastal	Late adult
+613	L3	NA	NA	NA	NA	NA	NA	NA
+614	L3	new case	negative	27	M	Dar es Salaam	Coastal	Early adult
+615	L3	new case	NA	40	M	Morogoro	Coastal	Early adult
+616	L4	new case	positive	32	M	Ruvuma	Southern Highlands	Early adult
+617	L4	new case	NA	30	F	Shinyanga	Lake	Early adult
+618	L4	new case	negative	18	M	Iringa	Southern Highlands	Young age
+619	L4	NA	NA	NA	NA	NA	NA	NA
+620	L4	retreatment	NA	60	M	Kilimanjaro	Northern	Late adult
+621	L3	retreatment	negative	22	F	Mwanza	Lake	Young age
+622	L4	new case	NA	32	F	Dar es Salaam	Coastal	Early adult
+623	L3	new case	NA	NA	NA	NA	NA	NA
+624	L4	new case	negative	35	F	Tanga	Northern	Early adult
+625	L4	new case	negative	48	M	Lindi	Coastal	Late adult
+626	L4	retreatment	positive	33	F	Kilimanjaro	Northern	Early adult
+627	L4	new case	NA	27	M	Dar es Salaam	Coastal	Early adult
+628	L4	retreatment	NA	35	M	Mwanza	Lake	Early adult
+629	L3	new case	NA	57	M	Dar es Salaam	Coastal	Late adult
+630	L4	new case	positive	50	M	Mwanza	Lake	Late adult
+631	L4	new case	NA	36	F	Dar es Salaam	Coastal	Early adult
+632	L4	new case	NA	NA	M	Dar es Salaam	Coastal	NA
+633	NA	new case	negative	18	M	Dar es Salaam	Coastal	Young age
+634	L3	new case	NA	28	M	Dar es Salaam	Coastal	Early adult
+635	L4	new case	NA	33	M	Shinyanga	Lake	Early adult
+636	L3	new case	negative	27	M	Dar es Salaam	Coastal	Early adult
+637	L3	new case	NA	28	M	Dar es Salaam	Coastal	Early adult
+638	L4	new case	negative	25	M	Kilimanjaro	Northern	Early adult
+639	L3	new case	NA	38	F	Dar es Salaam	Coastal	Early adult
+640	L3	NA	NA	NA	NA	NA	NA	NA
+641	L3	retreatment	negative	42	M	Kilimanjaro	Northern	Early adult
+642	L1	new case	NA	43	M	Dar es Salaam	Coastal	Early adult
+643	L4	new case	NA	28	M	Shinyanga	Lake	Early adult
+644	L4	new case	NA	40	M	Shinyanga	Lake	Early adult
+645	L1	new case	NA	36	M	Iringa	Southern Highlands	Early adult
+646	L4	retreatment	NA	45	M	Kilimanjaro	Northern	Late adult
+647	L4	new case	positive	30	M	Dar es Salaam	Coastal	Early adult
+648	L1	new case	NA	NA	NA	Shinyanga	Lake	NA
+649	L3	new case	NA	30	M	Iringa	Southern Highlands	Early adult
+650	L4	new case	NA	22	M	Arusha	Northern	Young age
+651	L1	new case	NA	35	M	Iringa	Southern Highlands	Early adult
+652	L2	new case	negative	41	F	Dar es Salaam	Coastal	Early adult
+653	L3	new case	NA	36	M	Dar es Salaam	Coastal	Early adult
+654	L1	new case	negative	53	M	Kaskazini Unguja	Zanzibar	Late adult
+655	L4	new case	negative	46	M	Pwani	Coastal	Late adult
+656	L3	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+657	L3	new case	NA	35	M	Morogoro	Coastal	Early adult
+658	L3	new case	NA	31	F	Morogoro	Coastal	Early adult
+659	L3	retreatment	NA	45	M	Dar es Salaam	Coastal	Late adult
+660	L1	new case	negative	24	M	Shinyanga	Lake	Young age
+661	L1	new case	negative	56	M	Mwanza	Lake	Late adult
+662	L3	new case	NA	22	M	Shinyanga	Lake	Young age
+663	L3	new case	negative	23	M	Shinyanga	Lake	Young age
+664	L4	retreatment	negative	38	M	Mwanza	Lake	Early adult
+665	L4	new case	negative	86	M	Pwani	Coastal	Old age
+666	L3	new case	negative	28	F	Arusha	Northern	Early adult
+667	L4	new case	NA	25	M	Mwanza	Lake	Early adult
+668	L3	new case	negative	32	M	Iringa	Southern Highlands	Early adult
+669	L1	new case	NA	60	M	Shinyanga	Lake	Late adult
+670	NA	new case	NA	30	M	Dar es Salaam	Coastal	Early adult
+671	L3	new case	NA	47	F	Morogoro	Coastal	Late adult
+672	L4	new case	negative	46	M	Kaskazini Unguja	Zanzibar	Late adult
+673	L4	new case	NA	37	M	Dar es Salaam	Coastal	Early adult
+674	L1	new case	positive	32	F	Dar es Salaam	Coastal	Early adult
+675	L4	new case	positive	28	M	Iringa	Southern Highlands	Early adult
+676	L4	retreatment	NA	34	M	Morogoro	Coastal	Early adult
+677	NA	new case	negative	16	M	Pwani	Coastal	Young age
+678	L4	new case	NA	18	F	Dar es Salaam	Coastal	Young age
+679	L4	new case	negative	35	F	Mwanza	Lake	Early adult
+680	L4	new case	NA	78	F	Shinyanga	Lake	Old age
+681	L4	new case	NA	30	M	Arusha	Northern	Early adult
+682	L3	new case	positive	70	M	Dar es Salaam	Coastal	Old age
+683	L4	new case	NA	NA	M	Dar es Salaam	Coastal	NA
+684	L3	new case	NA	35	M	Shinyanga	Lake	Early adult
+685	L1	new case	positive	46	M	Mwanza	Lake	Late adult
+686	L1	NA	NA	NA	NA	NA	NA	NA
+687	L4	NA	NA	NA	NA	NA	NA	NA
+688	L4	retreatment	NA	NA	M	Dar es Salaam	Coastal	NA
+689	L4	new case	NA	30	F	Arusha	Northern	Early adult
+690	L4	new case	negative	25	M	Iringa	Southern Highlands	Early adult
+691	L3	new case	NA	32	M	Dar es Salaam	Coastal	Early adult
+692	L3	new case	NA	20	M	Tanga	Northern	Young age
+693	L3	new case	NA	44	M	Shinyanga	Lake	Early adult
+694	L4	new case	NA	67	F	Arusha	Northern	Old age
+695	L1	new case	positive	39	F	Dar es Salaam	Coastal	Early adult
+696	L4	new case	NA	20	F	Dar es Salaam	Coastal	Young age
+697	L4	new case	negative	28	M	Mwanza	Lake	Early adult
+698	L2	new case	negative	30	M	Kigoma	Western	Early adult
+699	L4	new case	NA	40	F	Morogoro	Coastal	Early adult
+700	L4	new case	positive	30	F	Dar es Salaam	Coastal	Early adult
+701	L1	NA	NA	NA	NA	NA	NA	NA
+702	L4	new case	negative	34	M	Shinyanga	Lake	Early adult
+703	L1	new case	NA	NA	M	Dar es Salaam	Coastal	NA
+704	L1	new case	negative	60	F	Pwani	Coastal	Late adult
+705	NA	new case	NA	16	M	Dar es Salaam	Coastal	Young age
+706	L4	new case	NA	28	F	Iringa	Southern Highlands	Early adult
+707	L4	new case	negative	40	M	Kilimanjaro	Northern	Early adult
+708	L4	new case	NA	NA	M	Ruvuma	Southern Highlands	NA
+709	L4	new case	negative	29	M	Dar es Salaam	Coastal	Early adult
+710	L3	retreatment	positive	35	M	Arusha	Northern	Early adult
+711	L4	new case	NA	45	M	Shinyanga	Lake	Late adult
+712	L3	new case	negative	25	F	Tanga	Northern	Early adult
+713	L4	retreatment	NA	60	M	Mwanza	Lake	Late adult
+714	L3	retreatment	NA	54	M	Mwanza	Lake	Late adult
+715	L2	retreatment	NA	75	M	Singida	Central	Old age
+716	L4	retreatment	negative	37	F	Pwani	Coastal	Early adult
+717	L2	retreatment	NA	28	M	Arusha	Northern	Early adult
+718	L2	retreatment	NA	45	M	Pwani	Coastal	Late adult
+719	L4	retreatment	negative	36	M	Arusha	Northern	Early adult
+720	L2	retreatment	negative	30	M	Dar es Salaam	Coastal	Early adult
+721	L2	retreatment	NA	22	F	Dar es Salaam	Coastal	Young age
+722	L3	retreatment	negative	46	M	Dar es Salaam	Coastal	Late adult
+723	L4	retreatment	NA	18	F	Rukwa	Southern Highlands	Young age
+724	L4	retreatment	NA	28	M	Dar es Salaam	Coastal	Early adult
+725	L4	NA	NA	NA	NA	NA	NA	NA
+726	L4	retreatment	negative	42	M	Mwanza	Lake	Early adult
+727	L4	NA	NA	NA	NA	NA	NA	NA
+728	L4	retreatment	negative	47	M	Shinyanga	Lake	Late adult
+729	L4	retreatment	NA	35	F	Kagera	Lake	Early adult
+730	L4	retreatment	NA	35	F	Arusha	Northern	Early adult
+731	L1	new case	negative	38	M	Dar es Salaam	Coastal	Early adult
+732	L3	new case	negative	16	M	Dar es Salaam	Coastal	Young age
+733	L4	new case	negative	29	M	Dar es Salaam	Coastal	Early adult
+734	L3	new case	negative	28	F	Arusha	Northern	Early adult
+735	L4	new case	negative	35	M	Pwani	Coastal	Early adult
+736	L4	new case	positive	37	M	Iringa	Southern Highlands	Early adult
+737	L4	new case	negative	78	F	Pwani	Coastal	Old age
+738	L3	new case	negative	21	M	Dar es Salaam	Coastal	Young age
+739	L3	new case	positive	42	F	Dar es Salaam	Coastal	Early adult
+740	L3	new case	negative	23	F	Iringa	Southern Highlands	Young age
+741	L3	new case	positive	32	F	Kilimanjaro	Northern	Early adult
+742	L4	new case	negative	49	M	Iringa	Southern Highlands	Late adult
+743	L3	new case	positive	37	M	Iringa	Southern Highlands	Early adult
+744	L4	new case	negative	30	M	Kilimanjaro	Northern	Early adult
+745	L4	new case	negative	33	F	Arusha	Northern	Early adult
+746	L3	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+747	L4	new case	negative	27	F	Dar es Salaam	Coastal	Early adult
+748	L4	new case	negative	77	F	Tabora	Central	Old age
+749	L1	new case	positive	38	F	Dar es Salaam	Coastal	Early adult
+750	L4	new case	positive	45	M	Iringa	Southern Highlands	Late adult
+751	L4	new case	positive	33	F	Dar es Salaam	Coastal	Early adult
+752	L1	new case	positive	25	M	Dar es Salaam	Coastal	Early adult
+753	L3	new case	negative	33	F	Iringa	Southern Highlands	Early adult
+754	L3	new case	positive	36	F	Dar es Salaam	Coastal	Early adult
+755	L4	new case	negative	24	F	Dar es Salaam	Coastal	Young age
+756	L3	new case	negative	26	M	Dar es Salaam	Coastal	Early adult
+757	L3	new case	negative	25	M	Iringa	Southern Highlands	Early adult
+758	L4	new case	negative	28	M	Iringa	Southern Highlands	Early adult
+759	L4	new case	negative	17	F	Iringa	Southern Highlands	Young age
+760	L1	new case	positive	40	M	Iringa	Southern Highlands	Early adult
+761	L4	new case	negative	56	M	Tanga	Northern	Late adult
+762	L4	new case	negative	39	M	Dar es Salaam	Coastal	Early adult
+763	L3	new case	negative	28	M	Arusha	Northern	Early adult
+764	L3	new case	negative	21	M	Lindi	Coastal	Young age
+765	L4	new case	positive	47	M	Lindi	Coastal	Late adult
+766	L4	new case	negative	70	M	Lindi	Coastal	Old age
+767	L4	new case	positive	39	F	Dar es Salaam	Coastal	Early adult
+768	L4	new case	negative	19	M	Dar es Salaam	Coastal	Young age
+769	L4	new case	negative	26	F	Dar es Salaam	Coastal	Early adult
+770	L3	new case	positive	31	F	Iringa	Southern Highlands	Early adult
+771	L4	new case	negative	32	M	Pwani	Coastal	Early adult
+772	L1	new case	positive	40	M	Pwani	Coastal	Early adult
+773	L4	new case	positive	49	M	Dar es Salaam	Coastal	Late adult
+774	L2	new case	negative	42	M	Dar es Salaam	Coastal	Early adult
+775	L4	new case	negative	32	M	Kilimanjaro	Northern	Early adult
+776	L4	new case	negative	30	F	Kilimanjaro	Northern	Early adult
+777	L4	new case	negative	17	F	Ruvuma	Southern Highlands	Young age
+778	L4	new case	negative	26	M	Tanga	Northern	Early adult
+779	L3	new case	positive	52	F	Tanga	Northern	Late adult
+780	L3	new case	positive	22	M	Tanga	Northern	Young age
+781	L2	new case	negative	20	F	Pwani	Coastal	Young age
+782	L1	new case	negative	23	M	Pwani	Coastal	Young age
+783	L3	new case	negative	36	F	Mwanza	Lake	Early adult
+784	L1	new case	positive	49	M	Kilimanjaro	Northern	Late adult
+785	L4	new case	negative	47	M	Dar es Salaam	Coastal	Late adult
+786	L3	new case	negative	20	M	Dar es Salaam	Coastal	Young age
+787	L4	new case	negative	36	M	Pwani	Coastal	Early adult
+788	L3	new case	negative	29	M	Dar es Salaam	Coastal	Early adult
+789	L4	new case	negative	30	F	Tanga	Northern	Early adult
+790	L4	new case	negative	36	M	Tanga	Northern	Early adult
+791	L4	new case	negative	50	M	Kilimanjaro	Northern	Late adult
+792	L3	new case	negative	48	M	Kilimanjaro	Northern	Late adult
+793	L4	new case	negative	64	M	Kilimanjaro	Northern	Late adult
+794	L1	new case	negative	53	M	Dar es Salaam	Coastal	Late adult
+795	L3	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+796	L1	new case	positive	36	M	Shinyanga	Lake	Early adult
+797	L4	new case	negative	30	F	Shinyanga	Lake	Early adult
+798	L4	new case	positive	55	M	Pwani	Coastal	Late adult
+799	L2	new case	positive	30	F	Mwanza	Lake	Early adult
+800	L2	new case	positive	24	F	Ruvuma	Southern Highlands	Young age
+801	L3	new case	positive	49	F	Pwani	Coastal	Late adult
+802	L3	new case	negative	22	M	Morogoro	Coastal	Young age
+803	L3	new case	negative	38	M	Dar es Salaam	Coastal	Early adult
+804	L3	new case	negative	27	F	Dar es Salaam	Coastal	Early adult
+805	L3	new case	negative	42	F	Shinyanga	Lake	Early adult
+806	L3	new case	negative	69	M	Shinyanga	Lake	Old age
+807	L1	new case	negative	21	M	Dar es Salaam	Coastal	Young age
+808	L4	new case	negative	43	M	Mwanza	Lake	Early adult
+809	L3	new case	positive	33	F	Shinyanga	Lake	Early adult
+810	L1	new case	positive	40	M	Shinyanga	Lake	Early adult
+811	L1	new case	negative	15	F	Dar es Salaam	Coastal	Young age
+812	L4	new case	negative	41	M	Mwanza	Lake	Early adult
+813	L3	new case	positive	30	F	Kilimanjaro	Northern	Early adult
+814	L4	new case	negative	32	M	Mwanza	Lake	Early adult
+815	L3	new case	positive	66	M	Arusha	Northern	Old age
+816	L4	new case	positive	29	M	Arusha	Northern	Early adult
+817	L4	new case	negative	40	M	Dar es Salaam	Coastal	Early adult
+818	L1	new case	positive	NA	F	Iringa	Southern Highlands	NA
+819	L4	new case	positive	38	F	Shinyanga	Lake	Early adult
+820	L4	new case	positive	32	M	Iringa	Southern Highlands	Early adult
+821	L4	new case	positive	35	F	Kilimanjaro	Northern	Early adult
+822	L4	new case	positive	34	M	Pwani	Coastal	Early adult
+823	L1	new case	negative	26	M	Dar es Salaam	Coastal	Early adult
+824	L3	new case	negative	26	F	Mwanza	Lake	Early adult
+825	L4	new case	negative	57	M	Mwanza	Lake	Late adult
+826	L3	new case	negative	24	M	Dar es Salaam	Coastal	Young age
+827	L1	new case	negative	34	M	Tanga	Northern	Early adult
+828	L4	new case	positive	40	M	Dar es Salaam	Coastal	Early adult
+829	L4	new case	positive	28	M	Pwani	Coastal	Early adult
+830	L4	new case	positive	30	F	Dar es Salaam	Coastal	Early adult
+831	L3	new case	negative	74	M	Dar es Salaam	Coastal	Old age
+832	L3	new case	negative	40	M	Tanga	Northern	Early adult
+833	L3	new case	negative	18	M	Iringa	Southern Highlands	Young age
+834	L4	new case	negative	32	M	Mwanza	Lake	Early adult
+835	L1	new case	negative	35	F	Dar es Salaam	Coastal	Early adult
+836	L4	new case	positive	62	M	Kilimanjaro	Northern	Late adult
+837	L4	new case	negative	54	F	Mwanza	Lake	Late adult
+838	L4	new case	negative	30	M	Arusha	Northern	Early adult
+839	L1	new case	positive	19	M	Dar es Salaam	Coastal	Young age
+840	L4	new case	negative	20	M	Pwani	Coastal	Young age
+841	L4	new case	positive	37	F	Dar es Salaam	Coastal	Early adult
+842	L1	new case	positive	40	M	Mwanza	Lake	Early adult
+843	L4	new case	negative	22	M	Dar es Salaam	Coastal	Young age
+844	L4	new case	negative	19	M	Pwani	Coastal	Young age
+845	L3	new case	negative	17	M	Mwanza	Lake	Young age
+846	L4	new case	positive	24	F	Iringa	Southern Highlands	Young age
+847	L1	new case	negative	18	M	Dar es Salaam	Coastal	Young age
+848	L4	new case	negative	42	M	Mwanza	Lake	Early adult
+849	L4	new case	negative	37	M	Dar es Salaam	Coastal	Early adult
+850	L4	new case	positive	35	F	Pwani	Coastal	Early adult
+851	L3	new case	negative	49	M	Iringa	Southern Highlands	Late adult
+852	L4	new case	negative	39	M	Pwani	Coastal	Early adult
+853	L4	new case	negative	23	M	Pwani	Coastal	Young age
+854	L3	new case	positive	38	M	Shinyanga	Lake	Early adult
+855	L4	new case	negative	43	M	Pwani	Coastal	Early adult
+856	L4	new case	negative	29	F	Dar es Salaam	Coastal	Early adult
+857	L4	new case	negative	24	M	Arusha	Northern	Young age
+858	L4	new case	negative	25	M	Tanga	Northern	Early adult
+859	L3	new case	positive	22	F	Mwanza	Lake	Young age
+860	L3	new case	positive	50	F	Pwani	Coastal	Late adult
+861	L3	new case	negative	30	F	Pwani	Coastal	Early adult
+862	L3	new case	positive	41	M	Dar es Salaam	Coastal	Early adult
+863	L4	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+864	L1	new case	negative	21	M	Dar es Salaam	Coastal	Young age
+865	L3	new case	negative	27	M	Dar es Salaam	Coastal	Early adult
+866	L4	new case	negative	13	M	Pwani	Coastal	Child age
+867	L1	new case	negative	32	M	Arusha	Northern	Early adult
+868	L4	new case	negative	67	M	Tanga	Northern	Old age
+869	L4	new case	negative	46	M	Dar es Salaam	Coastal	Late adult
+870	L2	new case	negative	45	F	Pwani	Coastal	Late adult
+871	L3	new case	negative	32	F	Dar es Salaam	Coastal	Early adult
+872	L4	new case	positive	47	M	Iringa	Southern Highlands	Late adult
+873	L2	new case	negative	32	F	Pwani	Coastal	Early adult
+874	L1	new case	negative	15	F	Iringa	Southern Highlands	Young age
+875	L4	new case	positive	42	M	Mwanza	Lake	Early adult
+876	L3	new case	negative	64	M	Tanga	Northern	Late adult
+877	L3	new case	negative	63	M	Mwanza	Lake	Late adult
+878	L4	new case	negative	35	M	Pwani	Coastal	Early adult
+879	L1	new case	negative	34	M	Mwanza	Lake	Early adult
+880	L3	new case	positive	36	M	Mwanza	Lake	Early adult
+881	L4	new case	positive	38	M	Pwani	Coastal	Early adult
+882	L2	new case	negative	18	M	Tanga	Northern	Young age
+883	L4	new case	negative	40	F	Dar es Salaam	Coastal	Early adult
+884	L4	new case	negative	45	M	Mwanza	Lake	Late adult
+885	L1	new case	negative	55	M	Mwanza	Lake	Late adult
+886	L4	new case	negative	61	M	Dar es Salaam	Coastal	Late adult
+887	L1	new case	negative	28	M	Pwani	Coastal	Early adult
+888	L4	new case	positive	30	F	Shinyanga	Lake	Early adult
+889	L4	new case	negative	23	M	Kilimanjaro	Northern	Young age
+890	L4	new case	positive	28	F	Iringa	Southern Highlands	Early adult
+891	L1	new case	positive	28	F	Mwanza	Lake	Early adult
+892	L3	new case	positive	25	M	Dar es Salaam	Coastal	Early adult
+893	L3	new case	negative	62	M	Lindi	Coastal	Late adult
+894	L4	new case	negative	22	F	Morogoro	Coastal	Young age
+895	L1	new case	negative	30	M	Lindi	Coastal	Early adult
+896	L3	new case	positive	36	M	Tanga	Northern	Early adult
+897	L4	new case	negative	42	M	Dodoma	Central	Early adult
+898	L4	new case	negative	35	M	Pwani	Coastal	Early adult
+899	L3	new case	positive	40	M	Morogoro	Coastal	Early adult
+900	L4	new case	negative	38	F	Dar es Salaam	Coastal	Early adult
+901	L3	new case	negative	52	M	Morogoro	Coastal	Late adult
+902	L4	new case	negative	20	M	Pwani	Coastal	Young age
+903	L3	new case	positive	30	M	Mwanza	Lake	Early adult
+904	L2	new case	negative	40	M	Tanga	Northern	Early adult
+905	L4	new case	negative	39	F	Mwanza	Lake	Early adult
+906	L4	new case	negative	45	F	Dar es Salaam	Coastal	Late adult
+907	L1	new case	negative	20	F	Shinyanga	Lake	Young age
+908	L4	new case	negative	48	F	Tanga	Northern	Late adult
+909	L4	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+910	L4	new case	positive	34	M	Tanga	Northern	Early adult
+911	L4	new case	positive	40	M	Iringa	Southern Highlands	Early adult
+912	L3	new case	negative	38	M	Pwani	Coastal	Early adult
+913	L1	new case	positive	28	F	Lindi	Coastal	Early adult
+914	L3	new case	positive	26	F	Dar es Salaam	Coastal	Early adult
+915	L3	new case	positive	39	F	Iringa	Southern Highlands	Early adult
+916	L1	new case	negative	24	M	Singida	Central	Young age
+917	L4	new case	negative	38	F	Shinyanga	Lake	Early adult
+918	L4	new case	negative	24	F	Dar es Salaam	Coastal	Young age
+919	L1	new case	negative	27	M	Iringa	Southern Highlands	Early adult
+920	L4	new case	negative	18	F	Mwanza	Lake	Young age
+921	L3	new case	negative	18	M	Mwanza	Lake	Young age
+922	L1	new case	positive	22	M	Kilimanjaro	Northern	Young age
+923	L4	new case	negative	27	F	Kilimanjaro	Northern	Early adult
+924	L3	new case	negative	15	F	Pwani	Coastal	Young age
+925	L3	new case	negative	20	F	Dar es Salaam	Coastal	Young age
+926	L4	new case	positive	28	F	Tanga	Northern	Early adult
+927	L3	new case	negative	30	M	Morogoro	Coastal	Early adult
+928	L3	new case	negative	24	M	Tanga	Northern	Young age
+929	L4	new case	positive	30	M	Arusha	Northern	Early adult
+930	L4	new case	positive	32	M	Kilimanjaro	Northern	Early adult
+931	L4	new case	negative	44	M	Kilimanjaro	Northern	Early adult
+932	L3	new case	positive	40	M	Tanga	Northern	Early adult
+933	L1	new case	negative	8	F	Pwani	Coastal	Child age
+934	L4	new case	positive	35	F	Pwani	Coastal	Early adult
+935	L1	new case	positive	38	M	Iringa	Southern Highlands	Early adult
+936	L1	new case	positive	30	F	Iringa	Southern Highlands	Early adult
+937	L3	new case	negative	46	M	Kilimanjaro	Northern	Late adult
+938	L1	new case	positive	28	M	Mwanza	Lake	Early adult
+939	L1	new case	negative	28	M	Lindi	Coastal	Early adult
+940	L4	new case	positive	30	F	Shinyanga	Lake	Early adult
+941	L2	new case	positive	41	M	Mwanza	Lake	Early adult
+942	L4	new case	negative	60	M	Dar es Salaam	Coastal	Late adult
+943	L1	new case	positive	23	M	Arusha	Northern	Young age
+944	L1	new case	negative	74	F	Arusha	Northern	Old age
+945	L1	new case	negative	41	F	Dar es Salaam	Coastal	Early adult
+946	L3	new case	negative	39	M	Dar es Salaam	Coastal	Early adult
+947	L3	new case	positive	39	F	Kilimanjaro	Northern	Early adult
+948	L4	new case	positive	44	M	Mwanza	Lake	Early adult
+949	L4	new case	positive	32	M	Iringa	Southern Highlands	Early adult
+950	L4	new case	negative	27	M	Dar es Salaam	Coastal	Early adult
+951	L3	new case	positive	43	M	Dar es Salaam	Coastal	Early adult
+952	L4	new case	positive	30	F	Dar es Salaam	Coastal	Early adult
+953	L4	new case	positive	44	M	Iringa	Southern Highlands	Early adult
+954	L3	new case	positive	39	M	Dar es Salaam	Coastal	Early adult
+955	L3	new case	negative	25	M	Tanga	Northern	Early adult
+956	L1	new case	negative	42	F	Mwanza	Lake	Early adult
+957	L3	new case	positive	53	M	Mwanza	Lake	Late adult
+958	L4	new case	negative	37	M	Dar es Salaam	Coastal	Early adult
+959	L1	new case	negative	29	M	Dar es Salaam	Coastal	Early adult
+960	L1	new case	negative	50	M	Dar es Salaam	Coastal	Late adult
+961	L4	new case	negative	25	M	Tanga	Northern	Early adult
+962	L4	new case	positive	30	M	Dar es Salaam	Coastal	Early adult
+963	L1	new case	positive	32	M	Dar es Salaam	Coastal	Early adult
+964	L3	new case	negative	50	F	Tanga	Northern	Late adult
+965	NA	new case	negative	53	F	Kilimanjaro	Northern	Late adult
+966	L3	new case	negative	37	M	Tanga	Northern	Early adult
+967	L1	new case	positive	50	M	Mwanza	Lake	Late adult
+968	L3	new case	negative	20	M	Morogoro	Coastal	Young age
+969	L4	new case	negative	42	M	Pwani	Coastal	Early adult
+970	L3	new case	negative	28	M	Dar es Salaam	Coastal	Early adult
+971	L3	new case	negative	35	M	Pwani	Coastal	Early adult
+972	L4	new case	negative	18	M	Morogoro	Coastal	Young age
+973	L3	new case	negative	28	M	Ruvuma	Southern Highlands	Early adult
+974	L2	new case	negative	50	M	Tanga	Northern	Late adult
+975	L3	new case	positive	30	F	Mwanza	Lake	Early adult
+976	L1	new case	negative	70	M	Mwanza	Lake	Old age
+977	L4	new case	negative	20	M	Mwanza	Lake	Young age
+978	L4	new case	positive	30	F	Tanga	Northern	Early adult
+979	L4	new case	positive	38	F	Tanga	Northern	Early adult
+980	L3	new case	positive	20	F	Tanga	Northern	Young age
+981	L4	new case	positive	40	F	Shinyanga	Lake	Early adult
+982	L4	new case	positive	42	M	Shinyanga	Lake	Early adult
+983	L1	new case	positive	28	M	Mwanza	Lake	Early adult
+984	L4	new case	negative	20	F	Mwanza	Lake	Young age
+985	L4	new case	negative	18	M	Mwanza	Lake	Young age
+986	L3	new case	positive	58	M	Dar es Salaam	Coastal	Late adult
+987	NA	new case	negative	20	M	Dar es Salaam	Coastal	Young age
+988	L1	new case	negative	42	M	Dodoma	Central	Early adult
+989	NA	new case	negative	22	F	Dar es Salaam	Coastal	Young age
+990	L4	new case	negative	43	M	Tanga	Northern	Early adult
+991	L4	new case	positive	29	M	Iringa	Southern Highlands	Early adult
+992	L2	new case	positive	39	F	Dar es Salaam	Coastal	Early adult
+993	L1	new case	negative	48	M	Iringa	Southern Highlands	Late adult
+994	L4	new case	negative	40	M	Mwanza	Lake	Early adult
+995	NA	new case	negative	35	M	Mwanza	Lake	Early adult
+996	L4	new case	negative	23	M	Arusha	Northern	Young age
+997	L4	new case	negative	33	M	Arusha	Northern	Early adult
+998	L4	new case	positive	48	F	Mwanza	Lake	Late adult
+999	L3	new case	negative	NA	M	Mwanza	Lake	NA
+1000	L3	new case	negative	22	F	Dar es Salaam	Coastal	Young age
+1001	L4	new case	positive	44	F	Iringa	Southern Highlands	Early adult
+1002	L3	new case	negative	35	F	Ruvuma	Southern Highlands	Early adult
+1003	L1	new case	negative	16	M	Mwanza	Lake	Young age
+1004	NA	new case	negative	35	M	Mwanza	Lake	Early adult
+1005	L1	new case	positive	66	M	Mwanza	Lake	Old age
+1006	NA	new case	negative	33	F	Dar es Salaam	Coastal	Early adult
+1007	L3	new case	negative	38	M	Mwanza	Lake	Early adult
+1008	L3	new case	negative	20	M	Pwani	Coastal	Young age
+1009	L3	new case	positive	25	F	Dar es Salaam	Coastal	Early adult
+1010	L3	new case	positive	34	F	Dar es Salaam	Coastal	Early adult
+1011	L4	new case	positive	46	M	Dar es Salaam	Coastal	Late adult
+1012	L4	new case	negative	65	F	Shinyanga	Lake	Old age
+1013	L4	new case	negative	26	F	Mwanza	Lake	Early adult
+1014	L4	new case	negative	30	F	Shinyanga	Lake	Early adult
+1015	L4	new case	negative	48	M	Kilimanjaro	Northern	Late adult
+1016	L1	new case	positive	88	M	Kilimanjaro	Northern	Old age
+1017	L1	new case	negative	32	M	Tanga	Northern	Early adult
+1018	L1	new case	negative	16	F	Lindi	Coastal	Young age
+1019	L4	new case	positive	23	F	Lindi	Coastal	Young age
+1020	L4	new case	positive	38	M	Mwanza	Lake	Early adult
+1021	L3	new case	positive	71	M	Tanga	Northern	Old age
+1022	L3	new case	positive	33	F	Tanga	Northern	Early adult
+1023	L1	new case	positive	38	F	Iringa	Southern Highlands	Early adult
+1024	L3	new case	negative	30	F	Tanga	Northern	Early adult
+1025	L4	new case	negative	28	M	Dar es Salaam	Coastal	Early adult
+1026	L1	new case	negative	NA	F	Lindi	Coastal	NA
+1027	L4	new case	negative	57	F	Ruvuma	Southern Highlands	Late adult
+1028	L4	new case	negative	89	M	Mwanza	Lake	Old age
+1029	NA	new case	negative	48	M	Kilimanjaro	Northern	Late adult
+1030	L3	new case	negative	24	F	Kilimanjaro	Northern	Young age
+1031	L3	new case	negative	48	F	Kilimanjaro	Northern	Late adult
+1032	L4	new case	negative	50	M	Kilimanjaro	Northern	Late adult
+1033	L4	new case	positive	42	F	Kilimanjaro	Northern	Early adult
+1034	L1	new case	negative	29	F	Kilimanjaro	Northern	Early adult
+1035	L4	new case	negative	31	M	Mwanza	Lake	Early adult
+1036	NA	new case	negative	40	M	Mwanza	Lake	Early adult
+1037	L3	new case	negative	20	M	Dar es Salaam	Coastal	Young age
+1038	L4	new case	negative	19	F	Dar es Salaam	Coastal	Young age
+1039	L3	new case	positive	48	M	Dar es Salaam	Coastal	Late adult
+1040	NA	new case	negative	33	M	Dar es Salaam	Coastal	Early adult
+1041	L4	new case	positive	38	F	Dar es Salaam	Coastal	Early adult
+1042	L4	new case	positive	46	M	Dar es Salaam	Coastal	Late adult
+1043	L3	new case	positive	25	M	Dar es Salaam	Coastal	Early adult
+1044	L3	new case	positive	26	F	Dar es Salaam	Coastal	Early adult
+1045	L4	new case	negative	27	F	Dar es Salaam	Coastal	Early adult
+1046	L3	new case	positive	33	F	Iringa	Southern Highlands	Early adult
+1047	L4	new case	negative	46	M	Kilimanjaro	Northern	Late adult
+1048	L3	new case	positive	50	M	Dar es Salaam	Coastal	Late adult
+1049	L4	new case	positive	46	M	Iringa	Southern Highlands	Late adult
+1050	NA	new case	positive	55	M	Pwani	Coastal	Late adult
+1051	L1	new case	positive	45	M	Dar es Salaam	Coastal	Late adult
+1052	L4	new case	negative	NA	M	Dar es Salaam	Coastal	NA
+1053	L4	new case	positive	40	M	Kilimanjaro	Northern	Early adult
+1054	L3	new case	positive	NA	F	Iringa	Southern Highlands	NA
+1055	L3	new case	negative	24	M	Dar es Salaam	Coastal	Young age
+1056	L4	new case	negative	37	F	Dar es Salaam	Coastal	Early adult
+1057	L4	new case	positive	40	M	Dar es Salaam	Coastal	Early adult
+1058	L1	new case	negative	27	M	Mwanza	Lake	Early adult
+1059	L4	new case	negative	57	M	Iringa	Southern Highlands	Late adult
+1060	L4	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+1061	L4	new case	negative	31	F	Shinyanga	Lake	Early adult
+1062	L3	new case	positive	63	M	Shinyanga	Lake	Late adult
+1063	L4	new case	negative	37	M	Mwanza	Lake	Early adult
+1064	L1	new case	negative	40	M	Mwanza	Lake	Early adult
+1065	L4	new case	negative	28	M	Lindi	Coastal	Early adult
+1066	L4	new case	negative	40	M	Dar es Salaam	Coastal	Early adult
+1067	L3	new case	negative	24	M	Dar es Salaam	Coastal	Young age
+1068	L4	new case	negative	12	M	Dar es Salaam	Coastal	Child age
+1069	L4	new case	negative	33	M	Arusha	Northern	Early adult
+1070	L1	new case	negative	38	M	Arusha	Northern	Early adult
+1071	L4	new case	positive	40	M	Dar es Salaam	Coastal	Early adult
+1072	L3	new case	negative	28	F	Arusha	Northern	Early adult
+1073	L4	new case	negative	21	M	Lindi	Coastal	Young age
+1074	L4	new case	negative	19	M	Mwanza	Lake	Young age
+1075	L3	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+1076	L4	new case	positive	38	F	Mwanza	Lake	Early adult
+1077	L4	new case	positive	40	M	Dar es Salaam	Coastal	Early adult
+1078	L4	new case	negative	21	M	Dar es Salaam	Coastal	Young age
+1079	L3	new case	positive	45	F	Mwanza	Lake	Late adult
+1080	L3	new case	negative	57	M	Dar es Salaam	Coastal	Late adult
+1081	L4	new case	positive	52	F	Mwanza	Lake	Late adult
+1082	L3	new case	negative	64	M	Mwanza	Lake	Late adult
+1083	L1	new case	negative	22	F	Mwanza	Lake	Young age
+1084	L2	new case	positive	50	F	Mwanza	Lake	Late adult
+1085	L4	new case	negative	24	M	Dar es Salaam	Coastal	Young age
+1086	L4	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+1087	L3	new case	negative	10	F	Dar es Salaam	Coastal	Child age
+1088	L3	new case	negative	39	M	Dar es Salaam	Coastal	Early adult
+1089	L1	new case	negative	25	F	Dar es Salaam	Coastal	Early adult
+1090	L4	new case	positive	27	F	Dar es Salaam	Coastal	Early adult
+1091	L4	new case	positive	34	F	Dar es Salaam	Coastal	Early adult
+1092	L4	new case	negative	34	M	Dar es Salaam	Coastal	Early adult
+1093	L1	new case	negative	31	M	Dar es Salaam	Coastal	Early adult
+1094	L3	new case	positive	40	M	Dar es Salaam	Coastal	Early adult
+1095	L1	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1096	L4	new case	negative	44	M	Dar es Salaam	Coastal	Early adult
+1097	L3	new case	negative	27	M	Dar es Salaam	Coastal	Early adult
+1098	L3	new case	negative	15	M	Dar es Salaam	Coastal	Young age
+1099	L4	new case	negative	58	M	Dar es Salaam	Coastal	Late adult
+1100	L3	new case	negative	13	M	Dar es Salaam	Coastal	Child age
+1101	L4	new case	negative	24	M	Dar es Salaam	Coastal	Young age
+1102	L4	new case	negative	29	M	Dar es Salaam	Coastal	Early adult
+1103	L1	new case	positive	NA	M	Mwanza	Lake	NA
+1104	L1	new case	positive	60	M	Mwanza	Lake	Late adult
+1105	L4	new case	negative	34	F	Arusha	Northern	Early adult
+1106	L3	new case	negative	41	F	Arusha	Northern	Early adult
+1107	L3	new case	positive	31	F	Arusha	Northern	Early adult
+1108	L4	new case	negative	13	F	Iringa	Southern Highlands	Child age
+1109	L3	new case	positive	41	M	Dar es Salaam	Coastal	Early adult
+1110	L4	new case	positive	33	F	Lindi	Coastal	Early adult
+1111	L3	new case	negative	30	F	Tanga	Northern	Early adult
+1112	L2	new case	negative	27	F	Dar es Salaam	Coastal	Early adult
+1113	L4	new case	negative	52	M	Dar es Salaam	Coastal	Late adult
+1114	NA	new case	negative	11	F	Mwanza	Lake	Child age
+1115	L1	new case	positive	38	F	Dar es Salaam	Coastal	Early adult
+1116	L1	new case	positive	40	F	Dar es Salaam	Coastal	Early adult
+1117	L3	new case	negative	28	F	Dar es Salaam	Coastal	Early adult
+1118	L1	new case	negative	17	M	Dar es Salaam	Coastal	Young age
+1119	L3	new case	negative	22	M	Dar es Salaam	Coastal	Young age
+1120	L4	new case	positive	20	F	Tanga	Northern	Young age
+1121	L1	new case	negative	37	M	Dar es Salaam	Coastal	Early adult
+1122	L3	new case	positive	41	F	Dar es Salaam	Coastal	Early adult
+1123	L4	new case	negative	41	M	Dar es Salaam	Coastal	Early adult
+1124	L3	new case	positive	42	M	Dar es Salaam	Coastal	Early adult
+1125	L3	new case	negative	27	M	Dar es Salaam	Coastal	Early adult
+1126	L4	new case	positive	32	F	Dar es Salaam	Coastal	Early adult
+1127	L4	new case	positive	25	F	Iringa	Southern Highlands	Early adult
+1128	L3	new case	positive	33	F	Dar es Salaam	Coastal	Early adult
+1129	L3	new case	negative	40	M	Dar es Salaam	Coastal	Early adult
+1130	L4	new case	negative	24	F	Dar es Salaam	Coastal	Young age
+1131	L4	new case	positive	50	F	Kilimanjaro	Northern	Late adult
+1132	L4	new case	negative	61	M	Mwanza	Lake	Late adult
+1133	NA	new case	negative	36	M	Mwanza	Lake	Early adult
+1134	L3	new case	negative	22	M	Mwanza	Lake	Young age
+1135	L3	new case	negative	42	M	Dar es Salaam	Coastal	Early adult
+1136	L1	new case	negative	32	M	Mwanza	Lake	Early adult
+1137	NA	new case	positive	39	F	Tanga	Northern	Early adult
+1138	L1	new case	positive	24	F	Tanga	Northern	Young age
+1139	L3	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1140	L1	new case	positive	35	F	Dar es Salaam	Coastal	Early adult
+1141	L1	new case	negative	36	M	Mwanza	Lake	Early adult
+1142	L1	new case	positive	19	F	Dar es Salaam	Coastal	Young age
+1143	L1	new case	negative	45	M	Dar es Salaam	Coastal	Late adult
+1144	L3	new case	negative	27	M	Dar es Salaam	Coastal	Early adult
+1145	L4	new case	negative	40	F	Iringa	Southern Highlands	Early adult
+1146	L4	new case	negative	57	F	Lindi	Coastal	Late adult
+1147	L1	new case	negative	31	M	Iringa	Southern Highlands	Early adult
+1148	L3	new case	positive	30	M	Mwanza	Lake	Early adult
+1149	L4	new case	negative	45	M	Mwanza	Lake	Late adult
+1150	L4	new case	positive	41	F	Tanga	Northern	Early adult
+1151	L1	new case	positive	32	F	Tanga	Northern	Early adult
+1152	NA	new case	negative	24	M	Dar es Salaam	Coastal	Young age
+1153	NA	new case	negative	25	F	Tanga	Northern	Early adult
+1154	L1	new case	negative	56	M	Mwanza	Lake	Late adult
+1155	L1	new case	negative	39	M	Ruvuma	Southern Highlands	Early adult
+1156	L1	new case	positive	33	M	Shinyanga	Lake	Early adult
+1157	L4	new case	negative	20	F	Dar es Salaam	Coastal	Young age
+1158	L3	new case	negative	33	M	Dar es Salaam	Coastal	Early adult
+1159	L1	new case	positive	30	F	Dar es Salaam	Coastal	Early adult
+1160	L1	new case	positive	40	F	Dar es Salaam	Coastal	Early adult
+1161	L1	new case	negative	25	F	Dar es Salaam	Coastal	Early adult
+1162	L3	new case	negative	70	M	Shinyanga	Lake	Old age
+1163	L1	new case	negative	24	M	Kilimanjaro	Northern	Young age
+1164	L4	new case	negative	34	M	Ruvuma	Southern Highlands	Early adult
+1165	L3	new case	negative	33	M	Kilimanjaro	Northern	Early adult
+1166	L3	new case	positive	25	M	Tanga	Northern	Early adult
+1167	L3	new case	negative	30	M	Pwani	Coastal	Early adult
+1168	L3	new case	positive	43	M	Dar es Salaam	Coastal	Early adult
+1169	L3	new case	positive	40	M	Dar es Salaam	Coastal	Early adult
+1170	L4	new case	negative	23	M	Dar es Salaam	Coastal	Young age
+1171	L4	new case	negative	45	M	Tanga	Northern	Late adult
+1172	L4	new case	negative	47	F	Mwanza	Lake	Late adult
+1173	L4	new case	negative	52	M	Ruvuma	Southern Highlands	Late adult
+1174	L3	new case	negative	40	M	Iringa	Southern Highlands	Early adult
+1175	L3	new case	positive	31	F	Tanga	Northern	Early adult
+1176	L4	new case	negative	50	M	Dar es Salaam	Coastal	Late adult
+1177	L3	new case	negative	33	M	Kaskazini Unguja	Zanzibar	Early adult
+1178	L1	new case	positive	39	F	Mwanza	Lake	Early adult
+1179	L4	new case	negative	55	F	Dar es Salaam	Coastal	Late adult
+1180	L4	new case	positive	38	F	Kilimanjaro	Northern	Early adult
+1181	L3	new case	negative	62	M	Tanga	Northern	Late adult
+1182	L4	new case	negative	32	M	Mwanza	Lake	Early adult
+1183	L3	new case	positive	43	M	Dar es Salaam	Coastal	Early adult
+1184	NA	new case	negative	47	F	Mwanza	Lake	Late adult
+1185	L4	new case	positive	27	M	Dar es Salaam	Coastal	Early adult
+1186	L3	new case	negative	57	F	Dar es Salaam	Coastal	Late adult
+1187	NA	new case	negative	52	M	Dar es Salaam	Coastal	Late adult
+1188	L4	new case	negative	45	M	Tanga	Northern	Late adult
+1189	L4	new case	positive	52	F	Dar es Salaam	Coastal	Late adult
+1190	L4	new case	negative	38	M	Dar es Salaam	Coastal	Early adult
+1191	L3	new case	negative	50	M	Tanga	Northern	Late adult
+1192	NA	new case	negative	75	M	Kilimanjaro	Northern	Old age
+1193	L3	new case	positive	66	F	Dar es Salaam	Coastal	Old age
+1194	L4	new case	negative	20	M	Dar es Salaam	Coastal	Young age
+1195	L4	new case	negative	41	M	Mtwara	Coastal	Early adult
+1196	L3	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1197	L4	new case	negative	35	F	Tanga	Northern	Early adult
+1198	L3	new case	negative	28	M	Dar es Salaam	Coastal	Early adult
+1199	L3	new case	positive	44	M	Mwanza	Lake	Early adult
+1200	L4	new case	positive	39	F	Dar es Salaam	Coastal	Early adult
+1201	L4	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+1202	L3	new case	positive	23	M	Mwanza	Lake	Young age
+1203	L4	new case	negative	26	M	Tanga	Northern	Early adult
+1204	L4	new case	negative	29	F	Arusha	Northern	Early adult
+1205	L3	new case	negative	26	M	Dar es Salaam	Coastal	Early adult
+1206	L4	new case	negative	26	M	Dar es Salaam	Coastal	Early adult
+1207	L1	new case	positive	28	F	Shinyanga	Lake	Early adult
+1208	L4	new case	negative	24	M	Iringa	Southern Highlands	Young age
+1209	L4	new case	negative	42	M	Kilimanjaro	Northern	Early adult
+1210	L4	new case	negative	31	M	Dar es Salaam	Coastal	Early adult
+1211	L4	new case	positive	29	M	Iringa	Southern Highlands	Early adult
+1212	L1	new case	negative	26	F	Iringa	Southern Highlands	Early adult
+1213	L3	new case	negative	70	F	Tanga	Northern	Old age
+1214	L3	new case	positive	35	M	Mtwara	Coastal	Early adult
+1215	L3	new case	negative	43	M	Tanga	Northern	Early adult
+1216	L1	new case	negative	35	M	Dar es Salaam	Coastal	Early adult
+1217	L4	new case	positive	15	M	Tanga	Northern	Young age
+1218	L4	new case	positive	48	F	Mwanza	Lake	Late adult
+1219	L3	new case	negative	33	M	Mwanza	Lake	Early adult
+1220	L1	new case	negative	40	M	Mwanza	Lake	Early adult
+1221	L4	new case	negative	39	M	Mwanza	Lake	Early adult
+1222	L4	new case	positive	41	M	Mwanza	Lake	Early adult
+1223	L4	new case	positive	27	M	Mwanza	Lake	Early adult
+1224	L1	new case	negative	21	M	Shinyanga	Lake	Young age
+1225	L3	new case	negative	52	M	Dar es Salaam	Coastal	Late adult
+1226	L3	new case	negative	45	M	Mwanza	Lake	Late adult
+1227	L1	new case	negative	30	M	Tanga	Northern	Early adult
+1228	L3	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+1229	L4	new case	positive	36	F	Dar es Salaam	Coastal	Early adult
+1230	L4	new case	negative	43	M	Kilimanjaro	Northern	Early adult
+1231	L3	new case	negative	38	F	Arusha	Northern	Early adult
+1232	L4	new case	negative	37	M	Kilimanjaro	Northern	Early adult
+1233	L3	new case	positive	38	M	Shinyanga	Lake	Early adult
+1234	L3	new case	positive	38	M	Dar es Salaam	Coastal	Early adult
+1235	L3	new case	negative	40	M	Iringa	Southern Highlands	Early adult
+1236	L3	new case	negative	25	F	Dar es Salaam	Coastal	Early adult
+1237	L4	new case	positive	54	F	Pwani	Coastal	Late adult
+1238	L4	new case	positive	37	M	Mwanza	Lake	Early adult
+1239	L4	new case	positive	40	M	Pwani	Coastal	Early adult
+1240	NA	new case	positive	50	F	Mwanza	Lake	Late adult
+1241	L3	new case	negative	39	M	Iringa	Southern Highlands	Early adult
+1242	L3	new case	negative	31	M	Iringa	Southern Highlands	Early adult
+1243	L4	new case	negative	47	M	Iringa	Southern Highlands	Late adult
+1244	L3	new case	negative	NA	M	Dar es Salaam	Coastal	NA
+1245	L4	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+1246	L3	new case	negative	NA	M	Dar es Salaam	Coastal	NA
+1247	L1	new case	positive	39	F	Dar es Salaam	Coastal	Early adult
+1248	L4	new case	negative	25	F	Dar es Salaam	Coastal	Early adult
+1249	L1	new case	positive	38	F	Dar es Salaam	Coastal	Early adult
+1250	L4	new case	negative	16	F	Iringa	Southern Highlands	Young age
+1251	L3	new case	positive	44	M	Iringa	Southern Highlands	Early adult
+1252	L3	new case	negative	29	M	Shinyanga	Lake	Early adult
+1253	L4	new case	negative	50	M	Dar es Salaam	Coastal	Late adult
+1254	L3	new case	negative	17	M	Dar es Salaam	Coastal	Young age
+1255	L4	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1256	L4	new case	negative	64	M	Iringa	Southern Highlands	Late adult
+1257	L2	new case	negative	35	M	Dar es Salaam	Coastal	Early adult
+1258	L1	new case	negative	23	M	Dar es Salaam	Coastal	Young age
+1259	L4	new case	positive	50	M	Dar es Salaam	Coastal	Late adult
+1260	L1	new case	positive	32	F	Dar es Salaam	Coastal	Early adult
+1261	L3	new case	positive	46	F	Dar es Salaam	Coastal	Late adult
+1262	L4	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+1263	L1	new case	negative	44	M	Dar es Salaam	Coastal	Early adult
+1264	L3	new case	positive	35	M	Dar es Salaam	Coastal	Early adult
+1265	L4	new case	positive	42	M	Dar es Salaam	Coastal	Early adult
+1266	L3	new case	negative	20	M	Dar es Salaam	Coastal	Young age
+1267	L4	new case	positive	30	F	Dar es Salaam	Coastal	Early adult
+1268	L1	new case	negative	22	M	Dar es Salaam	Coastal	Young age
+1269	L4	new case	positive	25	M	Arusha	Northern	Early adult
+1270	L4	new case	positive	38	F	Dar es Salaam	Coastal	Early adult
+1271	L3	new case	positive	25	M	Dar es Salaam	Coastal	Early adult
+1272	L4	new case	negative	50	M	Dar es Salaam	Coastal	Late adult
+1273	L4	new case	negative	19	M	Dar es Salaam	Coastal	Young age
+1274	L4	new case	positive	46	M	Dar es Salaam	Coastal	Late adult
+1275	L3	new case	positive	30	F	Dar es Salaam	Coastal	Early adult
+1276	L3	new case	positive	36	F	Dar es Salaam	Coastal	Early adult
+1277	L4	new case	negative	20	F	Kilimanjaro	Northern	Young age
+1278	L1	new case	negative	21	F	Arusha	Northern	Young age
+1279	L4	new case	negative	38	M	Dar es Salaam	Coastal	Early adult
+1280	L4	new case	positive	42	M	Dar es Salaam	Coastal	Early adult
+1281	L1	new case	positive	30	M	Dar es Salaam	Coastal	Early adult
+1282	L1	new case	negative	29	M	Dar es Salaam	Coastal	Early adult
+1283	L3	new case	negative	78	M	Mwanza	Lake	Old age
+1284	L1	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1285	L1	new case	positive	44	M	Dar es Salaam	Coastal	Early adult
+1286	L1	new case	negative	47	M	Dar es Salaam	Coastal	Late adult
+1287	L3	new case	negative	21	M	Dar es Salaam	Coastal	Young age
+1288	L3	new case	negative	13	F	Kigoma	Western	Child age
+1289	L4	new case	positive	50	M	Kilimanjaro	Northern	Late adult
+1290	NA	new case	positive	40	M	Iringa	Southern Highlands	Early adult
+1291	L4	new case	negative	28	F	Mwanza	Lake	Early adult
+1292	L1	new case	negative	25	M	Ruvuma	Southern Highlands	Early adult
+1293	L3	new case	negative	31	M	Pwani	Coastal	Early adult
+1294	L3	new case	negative	81	M	Mwanza	Lake	Old age
+1295	L3	new case	positive	50	M	Mwanza	Lake	Late adult
+1296	L4	new case	positive	48	M	Kilimanjaro	Northern	Late adult
+1297	L4	new case	positive	28	F	Mwanza	Lake	Early adult
+1298	NA	new case	positive	34	F	Dar es Salaam	Coastal	Early adult
+1299	L4	new case	negative	68	F	Dar es Salaam	Coastal	Old age
+1300	L1	new case	negative	21	F	Dar es Salaam	Coastal	Young age
+1301	L4	new case	negative	42	M	Dar es Salaam	Coastal	Early adult
+1302	L3	new case	negative	26	F	Dar es Salaam	Coastal	Early adult
+1303	L4	new case	positive	44	F	Dar es Salaam	Coastal	Early adult
+1304	L4	new case	positive	36	M	Dar es Salaam	Coastal	Early adult
+1305	L4	new case	negative	25	F	Dar es Salaam	Coastal	Early adult
+1306	L3	new case	positive	29	F	Dar es Salaam	Coastal	Early adult
+1307	L1	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1308	L1	new case	negative	27	F	Dar es Salaam	Coastal	Early adult
+1309	L4	new case	negative	20	F	Dar es Salaam	Coastal	Young age
+1310	L1	new case	negative	21	M	Dar es Salaam	Coastal	Young age
+1311	L3	new case	positive	30	F	Dar es Salaam	Coastal	Early adult
+1312	L3	new case	positive	44	F	Dar es Salaam	Coastal	Early adult
+1313	L4	new case	negative	35	M	Dar es Salaam	Coastal	Early adult
+1314	L4	new case	negative	25	F	Dar es Salaam	Coastal	Early adult
+1315	L4	new case	negative	23	F	Dar es Salaam	Coastal	Young age
+1316	L4	new case	negative	52	M	Dar es Salaam	Coastal	Late adult
+1317	L4	new case	negative	55	M	Dar es Salaam	Coastal	Late adult
+1318	L1	new case	negative	35	M	Dar es Salaam	Coastal	Early adult
+1319	NA	new case	negative	55	M	Dar es Salaam	Coastal	Late adult
+1320	L3	new case	negative	29	M	Dar es Salaam	Coastal	Early adult
+1321	L1	new case	negative	35	M	Dar es Salaam	Coastal	Early adult
+1322	L4	new case	negative	27	M	Dar es Salaam	Coastal	Early adult
+1323	L3	new case	negative	35	M	Dar es Salaam	Coastal	Early adult
+1324	L1	new case	negative	33	M	Dar es Salaam	Coastal	Early adult
+1325	L4	new case	negative	41	M	Kilimanjaro	Northern	Early adult
+1326	L3	new case	positive	32	M	Mwanza	Lake	Early adult
+1327	L3	new case	negative	38	F	Iringa	Southern Highlands	Early adult
+1328	L1	new case	positive	52	F	Dar es Salaam	Coastal	Late adult
+1329	L4	new case	negative	50	F	Kilimanjaro	Northern	Late adult
+1330	L3	new case	positive	36	M	Iringa	Southern Highlands	Early adult
+1331	L1	new case	negative	62	F	Dar es Salaam	Coastal	Late adult
+1332	L4	new case	negative	15	M	Dar es Salaam	Coastal	Young age
+1333	L4	new case	negative	30	M	Tanga	Northern	Early adult
+1334	L4	new case	positive	47	M	Dar es Salaam	Coastal	Late adult
+1335	L4	new case	positive	45	M	Dar es Salaam	Coastal	Late adult
+1336	L4	new case	negative	42	M	Arusha	Northern	Early adult
+1337	NA	new case	positive	46	F	Dar es Salaam	Coastal	Late adult
+1338	L4	new case	positive	60	M	Mwanza	Lake	Late adult
+1339	L3	new case	negative	13	M	Dar es Salaam	Coastal	Child age
+1340	L2	new case	positive	35	F	Dar es Salaam	Coastal	Early adult
+1341	L3	new case	positive	46	M	Dar es Salaam	Coastal	Late adult
+1342	L4	new case	negative	45	M	Lindi	Coastal	Late adult
+1343	L3	new case	negative	40	M	Dar es Salaam	Coastal	Early adult
+1344	L3	new case	negative	31	M	Kigoma	Western	Early adult
+1345	L1	new case	negative	52	M	Dar es Salaam	Coastal	Late adult
+1346	L4	new case	negative	33	M	Dar es Salaam	Coastal	Early adult
+1347	L4	new case	negative	42	M	Mwanza	Lake	Early adult
+1348	L4	new case	negative	22	M	Tanga	Northern	Young age
+1349	L4	new case	negative	31	M	Dar es Salaam	Coastal	Early adult
+1350	L4	new case	positive	68	F	Dar es Salaam	Coastal	Old age
+1351	L3	new case	negative	20	F	Dar es Salaam	Coastal	Young age
+1352	L3	new case	positive	41	F	Dar es Salaam	Coastal	Early adult
+1353	L1	new case	negative	36	M	Dar es Salaam	Coastal	Early adult
+1354	L4	new case	negative	51	M	Dar es Salaam	Coastal	Late adult
+1355	L4	new case	negative	24	M	Kilimanjaro	Northern	Young age
+1356	L4	new case	negative	22	F	Kilimanjaro	Northern	Young age
+1357	L4	new case	negative	42	M	Dar es Salaam	Coastal	Early adult
+1358	L1	new case	negative	36	M	Dar es Salaam	Coastal	Early adult
+1359	L1	new case	negative	37	M	Arusha	Northern	Early adult
+1360	L3	new case	negative	50	F	Kilimanjaro	Northern	Late adult
+1361	L3	new case	negative	18	M	Dar es Salaam	Coastal	Young age
+1362	L4	new case	positive	33	M	Dar es Salaam	Coastal	Early adult
+1363	L4	new case	negative	19	F	Mwanza	Lake	Young age
+1364	L3	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1365	L4	new case	negative	28	M	Dar es Salaam	Coastal	Early adult
+1366	L1	new case	positive	40	F	Dar es Salaam	Coastal	Early adult
+1367	L1	new case	negative	42	M	Kilimanjaro	Northern	Early adult
+1368	L4	new case	positive	35	M	Dar es Salaam	Coastal	Early adult
+1369	L3	new case	positive	33	F	Kilimanjaro	Northern	Early adult
+1370	L4	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+1371	L4	new case	negative	52	M	Dar es Salaam	Coastal	Late adult
+1372	L4	new case	negative	2	F	Dar es Salaam	Coastal	Child age
+1373	L4	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+1374	L4	new case	negative	NA	M	Tanga	Northern	NA
+1375	NA	new case	negative	40	F	Tanga	Northern	Early adult
+1376	L3	new case	negative	30	F	Dar es Salaam	Coastal	Early adult
+1377	L1	new case	negative	38	M	Dar es Salaam	Coastal	Early adult
+1378	L1	new case	negative	54	F	Kilimanjaro	Northern	Late adult
+1379	L1	new case	positive	23	F	Mwanza	Lake	Young age
+1380	L4	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+1381	L3	new case	negative	27	M	Tanga	Northern	Early adult
+1382	L2	new case	negative	36	F	Dar es Salaam	Coastal	Early adult
+1383	L1	new case	positive	56	M	Arusha	Northern	Late adult
+1384	L3	new case	positive	36	F	Dar es Salaam	Coastal	Early adult
+1385	L4	new case	positive	35	F	Dar es Salaam	Coastal	Early adult
+1386	L1	new case	negative	44	M	Ruvuma	Southern Highlands	Early adult
+1387	NA	new case	positive	29	M	Dar es Salaam	Coastal	Early adult
+1388	L4	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+1389	L3	new case	negative	34	F	Dar es Salaam	Coastal	Early adult
+1390	L4	new case	negative	38	F	Mwanza	Lake	Early adult
+1391	L3	new case	negative	23	M	Dar es Salaam	Coastal	Young age
+1392	L3	new case	positive	44	M	Tanga	Northern	Early adult
+1393	NA	new case	negative	46	M	Tanga	Northern	Late adult
+1394	L4	new case	negative	54	M	Mwanza	Lake	Late adult
+1395	NA	new case	negative	22	M	Mwanza	Lake	Young age
+1396	L3	new case	positive	44	M	Mwanza	Lake	Early adult
+1397	L1	new case	negative	24	M	Dar es Salaam	Coastal	Young age
+1398	L4	new case	negative	51	M	Tanga	Northern	Late adult
+1399	L4	new case	negative	41	M	Shinyanga	Lake	Early adult
+1400	L3	new case	positive	49	M	Mwanza	Lake	Late adult
+1401	L1	new case	negative	22	F	Dar es Salaam	Coastal	Young age
+1402	L3	new case	positive	60	M	Dar es Salaam	Coastal	Late adult
+1403	L4	new case	positive	48	M	Dar es Salaam	Coastal	Late adult
+1404	L4	new case	negative	47	M	Dar es Salaam	Coastal	Late adult
+1405	L4	new case	positive	60	F	Mwanza	Lake	Late adult
+1406	L4	new case	positive	57	M	Dar es Salaam	Coastal	Late adult
+1407	L3	new case	negative	31	M	Mwanza	Lake	Early adult
+1408	L4	new case	positive	39	F	Lindi	Coastal	Early adult
+1409	L4	new case	positive	36	F	Dar es Salaam	Coastal	Early adult
+1410	L3	new case	negative	40	F	Dar es Salaam	Coastal	Early adult
+1411	L4	new case	negative	58	F	Mwanza	Lake	Late adult
+1412	L3	new case	positive	28	F	Lindi	Coastal	Early adult
+1413	L3	new case	negative	31	M	Shinyanga	Lake	Early adult
+1414	L4	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1415	L1	new case	negative	75	F	Dar es Salaam	Coastal	Old age
+1416	L4	new case	positive	43	M	Ruvuma	Southern Highlands	Early adult
+1417	L4	new case	negative	25	M	Tanga	Northern	Early adult
+1418	L1	new case	negative	40	M	Dar es Salaam	Coastal	Early adult
+1419	L4	new case	negative	25	M	Pwani	Coastal	Early adult
+1420	L1	new case	negative	40	M	Mwanza	Lake	Early adult
+1421	L4	new case	positive	28	M	Dar es Salaam	Coastal	Early adult
+1422	L4	new case	negative	29	M	Dar es Salaam	Coastal	Early adult
+1423	L4	new case	positive	27	M	Dar es Salaam	Coastal	Early adult
+1424	L3	new case	negative	55	M	Arusha	Northern	Late adult
+1425	L4	new case	negative	7	F	Arusha	Northern	Child age
+1426	L4	new case	negative	19	M	Dar es Salaam	Coastal	Young age
+1427	L4	new case	negative	26	M	Dar es Salaam	Coastal	Early adult
+1428	L4	new case	negative	52	F	Mwanza	Lake	Late adult
+1429	L4	new case	positive	34	M	Mwanza	Lake	Early adult
+1430	L1	new case	negative	26	F	Ruvuma	Southern Highlands	Early adult
+1431	NA	new case	positive	22	F	Dar es Salaam	Coastal	Young age
+1432	L1	new case	negative	40	M	Dar es Salaam	Coastal	Early adult
+1433	L4	new case	negative	28	F	Dar es Salaam	Coastal	Early adult
+1434	L4	new case	negative	20	M	Pwani	Coastal	Young age
+1435	L3	new case	positive	38	M	Tanga	Northern	Early adult
+1436	L3	new case	negative	33	F	Dar es Salaam	Coastal	Early adult
+1437	L3	new case	positive	20	F	Iringa	Southern Highlands	Young age
+1438	L3	new case	negative	72	M	Tanga	Northern	Old age
+1439	L4	new case	negative	23	F	Tanga	Northern	Young age
+1440	L4	new case	negative	40	F	Dar es Salaam	Coastal	Early adult
+1441	L4	new case	negative	50	F	Mwanza	Lake	Late adult
+1442	L1	new case	negative	53	M	Mwanza	Lake	Late adult
+1443	L2	new case	positive	41	M	Mwanza	Lake	Early adult
+1444	L4	new case	negative	21	F	Dar es Salaam	Coastal	Young age
+1445	L4	new case	negative	27	F	Dar es Salaam	Coastal	Early adult
+1446	L4	new case	negative	36	M	Dar es Salaam	Coastal	Early adult
+1447	L4	new case	positive	45	M	Dar es Salaam	Coastal	Late adult
+1448	L3	new case	positive	42	M	Dar es Salaam	Coastal	Early adult
+1449	L4	new case	negative	38	M	Dar es Salaam	Coastal	Early adult
+1450	L4	new case	positive	14	F	Dar es Salaam	Coastal	Child age
+1451	L1	new case	negative	40	M	Shinyanga	Lake	Early adult
+1452	L4	new case	negative	30	M	Tanga	Northern	Early adult
+1453	L1	NA	NA	NA	NA	NA	NA	NA
+1454	NA	new case	negative	60	M	Lindi	Coastal	Late adult
+1455	L4	new case	negative	23	F	Pwani	Coastal	Young age
+1456	L1	new case	negative	22	M	Dar es Salaam	Coastal	Young age
+1457	L4	new case	positive	19	F	Mwanza	Lake	Young age
+1458	L4	new case	positive	36	F	Dodoma	Central	Early adult
+1459	L4	new case	positive	46	M	Tanga	Northern	Late adult
+1460	L3	new case	negative	21	M	Dar es Salaam	Coastal	Young age
+1461	L3	new case	negative	30	F	Tanga	Northern	Early adult
+1462	L2	new case	positive	34	F	Shinyanga	Lake	Early adult
+1463	L4	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+1464	L3	new case	negative	44	F	Mwanza	Lake	Early adult
+1465	L1	new case	negative	70	M	Lindi	Coastal	Old age
+1466	L1	new case	negative	44	M	Dar es Salaam	Coastal	Early adult
+1467	L3	new case	positive	41	M	Iringa	Southern Highlands	Early adult
+1468	L4	new case	negative	33	F	Dar es Salaam	Coastal	Early adult
+1469	L4	new case	positive	29	F	Mwanza	Lake	Early adult
+1470	L3	new case	negative	23	F	Dar es Salaam	Coastal	Young age
+1471	L4	new case	negative	27	M	Mwanza	Lake	Early adult
+1472	L1	new case	negative	50	M	Shinyanga	Lake	Late adult
+1473	L1	new case	negative	26	F	Lindi	Coastal	Early adult
+1474	L3	new case	negative	35	M	Mwanza	Lake	Early adult
+1475	L4	new case	negative	25	M	Dar es Salaam	Coastal	Early adult
+1476	L1	new case	negative	59	M	Shinyanga	Lake	Late adult
+1477	L1	new case	negative	29	M	Pwani	Coastal	Early adult
+1478	L1	new case	negative	34	F	Dar es Salaam	Coastal	Early adult
+1479	L4	new case	negative	54	M	Dar es Salaam	Coastal	Late adult
+1480	L4	new case	negative	33	M	Dar es Salaam	Coastal	Early adult
+1481	L3	new case	negative	33	M	Shinyanga	Lake	Early adult
+1482	L3	new case	positive	54	M	Dar es Salaam	Coastal	Late adult
+1483	L2	new case	positive	35	F	Shinyanga	Lake	Early adult
+1484	L1	new case	negative	45	M	Shinyanga	Lake	Late adult
+1485	L1	new case	negative	52	M	Dar es Salaam	Coastal	Late adult
+1486	L3	new case	positive	40	M	Dar es Salaam	Coastal	Early adult
+1487	NA	new case	negative	45	M	Shinyanga	Lake	Late adult
+1488	L3	new case	positive	30	M	Kilimanjaro	Northern	Early adult
+1489	L3	new case	negative	22	M	Pwani	Coastal	Young age
+1490	L1	new case	positive	30	M	Iringa	Southern Highlands	Early adult
+1491	L3	new case	negative	67	M	Kilimanjaro	Northern	Old age
+1492	L3	new case	negative	70	F	Tanga	Northern	Old age
+1493	L3	new case	negative	61	F	Tanga	Northern	Late adult
+1494	L4	new case	negative	40	F	Shinyanga	Lake	Early adult
+1495	L4	new case	negative	69	M	Shinyanga	Lake	Old age
+1496	L4	new case	negative	80	M	Shinyanga	Lake	Old age
+1497	L4	new case	negative	52	M	Tanga	Northern	Late adult
+1498	L3	new case	negative	17	F	Lindi	Coastal	Young age
+1499	L1	new case	positive	34	M	Tanga	Northern	Early adult
+1500	L4	new case	negative	60	M	Pwani	Coastal	Late adult
+1501	L4	new case	positive	45	F	Lindi	Coastal	Late adult
+1502	L3	new case	positive	62	M	Dar es Salaam	Coastal	Late adult
+1503	L4	new case	negative	29	F	Tanga	Northern	Early adult
+1504	L4	new case	negative	23	M	Singida	Central	Young age
+1505	NA	new case	negative	63	M	Shinyanga	Lake	Late adult
+1506	L4	new case	negative	25	F	Pwani	Coastal	Early adult
+1507	L4	new case	negative	36	F	Shinyanga	Lake	Early adult
+1508	L1	new case	negative	24	M	Dar es Salaam	Coastal	Young age
+1509	L3	new case	negative	50	M	Tanga	Northern	Late adult
+1510	L1	new case	negative	75	M	Dar es Salaam	Coastal	Old age
+1511	L1	new case	negative	28	F	Shinyanga	Lake	Early adult
+1512	NA	new case	negative	37	M	Kilimanjaro	Northern	Early adult
+1513	L4	new case	negative	23	M	Shinyanga	Lake	Young age
+1514	L3	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+1515	L3	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1516	L4	new case	positive	54	M	Tanga	Northern	Late adult
+1517	L1	new case	negative	26	M	Arusha	Northern	Early adult
+1518	L1	new case	negative	18	M	Dar es Salaam	Coastal	Young age
+1519	L3	new case	negative	25	M	Pwani	Coastal	Early adult
+1520	L3	new case	positive	41	M	Kilimanjaro	Northern	Early adult
+1521	L1	new case	positive	70	F	Dar es Salaam	Coastal	Old age
+1522	L1	new case	negative	36	M	Pwani	Coastal	Early adult
+1523	L3	new case	positive	40	M	Dar es Salaam	Coastal	Early adult
+1524	L3	new case	negative	17	F	Pwani	Coastal	Young age
+1525	L3	new case	positive	NA	F	Dar es Salaam	Coastal	NA
+1526	L4	new case	negative	30	F	Kilimanjaro	Northern	Early adult
+1527	L2	new case	positive	36	M	Dar es Salaam	Coastal	Early adult
+1528	L3	new case	negative	16	F	Dar es Salaam	Coastal	Young age
+1529	L1	new case	negative	46	M	Dar es Salaam	Coastal	Late adult
+1530	L1	new case	negative	35	M	Kilimanjaro	Northern	Early adult
+1531	L4	new case	negative	34	M	Morogoro	Coastal	Early adult
+1532	L4	new case	positive	25	M	Dar es Salaam	Coastal	Early adult
+1533	L3	new case	positive	35	F	Dar es Salaam	Coastal	Early adult
+1534	L1	new case	negative	34	M	Iringa	Southern Highlands	Early adult
+1535	L4	new case	negative	20	M	Pwani	Coastal	Young age
+1536	L3	new case	positive	37	M	Iringa	Southern Highlands	Early adult
+1537	L3	new case	negative	47	M	Iringa	Southern Highlands	Late adult
+1538	L1	new case	positive	33	M	Kilimanjaro	Northern	Early adult
+1539	L3	new case	negative	28	M	Tanga	Northern	Early adult
+1540	L4	retreatment	negative	19	M	Dar es Salaam	Coastal	Young age
+1541	L3	new case	positive	45	F	Dar es Salaam	Coastal	Late adult
+1542	L4	new case	negative	21	M	Pwani	Coastal	Young age
+1543	L3	new case	negative	42	F	Morogoro	Coastal	Early adult
+1544	L3	new case	negative	25	M	Pwani	Coastal	Early adult
+1545	L4	new case	positive	35	F	Pwani	Coastal	Early adult
+1546	L3	retreatment	negative	53	F	Dar es Salaam	Coastal	Late adult
+1547	L2	new case	positive	32	F	Mbeya	Southern Highlands	Early adult
+1548	L4	new case	negative	60	M	Kilimanjaro	Northern	Late adult
+1549	L4	new case	negative	75	F	Tanga	Northern	Old age
+1550	L3	new case	negative	40	M	Mwanza	Lake	Early adult
+1551	L3	retreatment	negative	19	M	Dar es Salaam	Coastal	Young age
+1552	L3	retreatment	negative	32	M	Tanga	Northern	Early adult
+1553	L4	new case	negative	68	M	Pwani	Coastal	Old age
+1554	L4	retreatment	positive	30	F	Dar es Salaam	Coastal	Early adult
+1555	L3	new case	positive	45	M	Morogoro	Coastal	Late adult
+1556	L3	retreatment	negative	48	M	Dar es Salaam	Coastal	Late adult
+1557	L3	new case	negative	26	M	Arusha	Northern	Early adult
+1558	L4	retreatment	positive	50	F	Dar es Salaam	Coastal	Late adult
+1559	L3	new case	positive	52	F	Pwani	Coastal	Late adult
+1560	L3	retreatment	positive	29	F	Mwanza	Lake	Early adult
+1561	L3	new case	negative	32	M	Mbeya	Southern Highlands	Early adult
+1562	L4	new case	negative	65	M	Morogoro	Coastal	Old age
+1563	L3	new case	negative	38	F	Tanga	Northern	Early adult
+1564	L3	new case	negative	27	M	Ruvuma	Southern Highlands	Early adult
+1565	L1	new case	negative	26	M	Pwani	Coastal	Early adult
+1566	L3	new case	negative	40	M	Tanga	Northern	Early adult
+1567	L3	new case	positive	39	M	Rukwa	Southern Highlands	Early adult
+1568	NA	NA	NA	NA	NA	NA	NA	NA
+1569	L4	new case	positive	35	M	Mwanza	Lake	Early adult
+1570	L3	new case	positive	23	F	Pwani	Coastal	Young age
+1571	L1	new case	negative	19	M	Pwani	Coastal	Young age
+1572	L4	retreatment	negative	15	M	Shinyanga	Lake	Young age
+1573	L1	new case	negative	33	M	Morogoro	Coastal	Early adult
+1574	L4	new case	negative	35	M	Tanga	Northern	Early adult
+1575	L1	new case	negative	39	M	Tanga	Northern	Early adult
+1576	L4	retreatment	negative	52	M	Dar es Salaam	Coastal	Late adult
+1577	L1	new case	negative	27	M	Pwani	Coastal	Early adult
+1578	L3	new case	negative	24	M	Pwani	Coastal	Young age
+1579	L4	retreatment	negative	41	F	Dar es Salaam	Coastal	Early adult
+1580	L2	new case	negative	52	M	Arusha	Northern	Late adult
+1581	L4	new case	negative	27	F	Morogoro	Coastal	Early adult
+1582	L3	new case	negative	65	M	Tanga	Northern	Old age
+1583	L3	new case	positive	33	F	Rukwa	Southern Highlands	Early adult
+1584	L3	new case	negative	18	F	Pwani	Coastal	Young age
+1585	L2	new case	positive	38	F	Shinyanga	Lake	Early adult
+1586	L3	new case	negative	24	M	Morogoro	Coastal	Young age
+1587	L3	retreatment	negative	40	F	Dar es Salaam	Coastal	Early adult
+1588	L3	new case	positive	42	M	Mwanza	Lake	Early adult
+1589	L3	new case	negative	32	M	Arusha	Northern	Early adult
+1590	L4	new case	positive	29	M	Mwanza	Lake	Early adult
+1591	L3	retreatment	negative	50	M	Dar es Salaam	Coastal	Late adult
+1592	L4	new case	positive	29	F	Pwani	Coastal	Early adult
+1593	L4	retreatment	negative	20	M	Dar es Salaam	Coastal	Young age
+1594	L3	retreatment	negative	74	M	Singida	Central	Old age
+1595	L3	new case	negative	41	M	Pwani	Coastal	Early adult
+1596	L3	retreatment	negative	29	F	Tanga	Northern	Early adult
+1597	L1	retreatment	positive	45	M	Dar es Salaam	Coastal	Late adult
+1598	L3	new case	negative	15	F	Kilimanjaro	Northern	Young age
+1599	L3	new case	negative	26	F	Arusha	Northern	Early adult
+1600	L4	new case	negative	19	F	Kilimanjaro	Northern	Young age
+1601	L4	new case	negative	20	M	Pwani	Coastal	Young age
+1602	L3	new case	negative	27	F	Mwanza	Lake	Early adult
+1603	L3	retreatment	negative	35	M	Pwani	Coastal	Early adult
+1604	L3	retreatment	positive	39	F	Mwanza	Lake	Early adult
+1605	L1	new case	negative	35	M	Pwani	Coastal	Early adult
+1606	L4	new case	negative	33	F	Mwanza	Lake	Early adult
+1607	L3	retreatment	positive	49	F	Mwanza	Lake	Late adult
+1608	L3	retreatment	negative	60	M	Shinyanga	Lake	Late adult
+1609	L4	new case	negative	38	M	Mwanza	Lake	Early adult
+1610	L4	new case	negative	20	F	Dar es Salaam	Coastal	Young age
+1611	L3	new case	negative	20	M	Arusha	Northern	Young age
+1612	L3	retreatment	negative	21	F	Mwanza	Lake	Young age
+1613	L1	retreatment	negative	21	M	Tanga	Northern	Young age
+1614	L3	new case	negative	50	M	Pwani	Coastal	Late adult
+1615	L2	new case	positive	70	M	Morogoro	Coastal	Old age
+1616	L4	new case	negative	36	M	Mwanza	Lake	Early adult
+1617	L1	new case	negative	36	M	Pwani	Coastal	Early adult
+1618	L1	new case	positive	39	F	Pwani	Coastal	Early adult
+1619	L3	new case	positive	30	F	Morogoro	Coastal	Early adult
+1620	NA	retreatment	negative	22	M	Dar es Salaam	Coastal	Young age
+1621	L3	retreatment	negative	50	F	Dar es Salaam	Coastal	Late adult
+1622	L3	retreatment	negative	45	F	Dar es Salaam	Coastal	Late adult
+1623	L3	retreatment	negative	35	M	Dar es Salaam	Coastal	Early adult
+1624	L3	retreatment	positive	34	M	Dar es Salaam	Coastal	Early adult
+1625	L3	retreatment	positive	NA	M	Dar es Salaam	Coastal	NA
+1626	L3	retreatment	negative	31	M	Dar es Salaam	Coastal	Early adult
+1627	L3	retreatment	negative	20	F	Dar es Salaam	Coastal	Young age
+1628	L3	retreatment	positive	26	F	Shinyanga	Lake	Early adult
+1629	NA	new case	negative	33	M	Mwanza	Lake	Early adult
+1630	L3	NA	NA	NA	NA	NA	NA	NA
+1631	L1	new case	negative	40	F	Mwanza	Lake	Early adult
+1632	L3	new case	negative	70	M	Mwanza	Lake	Old age
+1633	NA	NA	NA	NA	NA	NA	NA	NA
+1634	L3	new case	negative	54	F	Mwanza	Lake	Late adult
+1635	L3	new case	negative	45	M	Mwanza	Lake	Late adult
+1636	L4	new case	negative	44	M	Arusha	Northern	Early adult
+1637	L4	new case	negative	32	M	Mwanza	Lake	Early adult
+1638	L3	new case	negative	40	F	Mwanza	Lake	Early adult
+1639	L4	new case	negative	52	M	Mwanza	Lake	Late adult
+1640	L1	new case	negative	28	M	Mwanza	Lake	Early adult
+1641	L3	retreatment	negative	36	M	Kaskazini Unguja	Zanzibar	Early adult
+1642	L3	NA	NA	NA	NA	NA	NA	NA
+1643	L3	new case	negative	19	F	Kilimanjaro	Northern	Young age
+1644	L4	new case	negative	29	M	Kilimanjaro	Northern	Early adult
+1645	L3	retreatment	positive	34	F	Dar es Salaam	Coastal	Early adult
+1646	L4	new case	negative	34	M	Kilimanjaro	Northern	Early adult
+1647	L3	retreatment	negative	41	M	Tanga	Northern	Early adult
+1648	L3	new case	negative	19	M	Mwanza	Lake	Young age
+1649	L3	retreatment	negative	35	M	Dar es Salaam	Coastal	Early adult
+1650	L1	retreatment	positive	54	M	Ruvuma	Southern Highlands	Late adult
+1651	L3	retreatment	negative	29	M	Manyara	Northern	Early adult
+1652	L3	retreatment	positive	29	F	Iringa	Southern Highlands	Early adult
+1653	L3	retreatment	negative	35	M	Dar es Salaam	Coastal	Early adult
+1654	L4	retreatment	negative	21	F	Shinyanga	Lake	Young age
+1655	L3	new case	negative	30	M	Pwani	Coastal	Early adult
+1656	L1	retreatment	positive	44	F	Rukwa	Southern Highlands	Early adult
+1657	NA	retreatment	negative	37	M	Kaskazini Unguja	Zanzibar	Early adult
+1658	L3	new case	negative	35	M	Tanga	Northern	Early adult
+1659	L1	new case	negative	20	F	Dar es Salaam	Coastal	Young age
+1660	L1	new case	negative	14	F	Pwani	Coastal	Child age
+1661	L3	new case	negative	46	M	Mwanza	Lake	Late adult
+1662	L3	retreatment	negative	42	F	Dar es Salaam	Coastal	Early adult
+1663	L3	retreatment	positive	38	F	Mwanza	Lake	Early adult
+1664	L3	new case	negative	40	F	Kilimanjaro	Northern	Early adult
+1665	L3	retreatment	negative	26	M	Lindi	Coastal	Early adult
+1666	NA	retreatment	negative	35	M	Dar es Salaam	Coastal	Early adult
+1667	L4	new case	negative	47	M	Ruvuma	Southern Highlands	Late adult
+1668	L4	new case	negative	35	F	Tanga	Northern	Early adult
+1669	L4	new case	negative	25	M	Mwanza	Lake	Early adult
+1670	L2	new case	negative	27	F	Pwani	Coastal	Early adult
+1671	L4	retreatment	negative	23	M	Dar es Salaam	Coastal	Young age
+1672	L4	retreatment	negative	50	F	Shinyanga	Lake	Late adult
+1673	L4	retreatment	negative	23	F	Shinyanga	Lake	Young age
+1674	L3	retreatment	positive	35	M	Iringa	Southern Highlands	Early adult
+1675	L2	retreatment	positive	46	M	Tanga	Northern	Late adult
+1676	L2	retreatment	positive	48	F	Dar es Salaam	Coastal	Late adult
+1677	L4	retreatment	negative	24	M	Dar es Salaam	Coastal	Young age
+1678	NA	retreatment	positive	48	F	Kilimanjaro	Northern	Late adult
+1679	L3	new case	positive	38	M	Iringa	Southern Highlands	Early adult
+1680	L1	new case	positive	27	F	Dodoma	Central	Early adult
+1681	L3	retreatment	negative	48	M	Dar es Salaam	Coastal	Late adult
+1682	L4	new case	negative	26	M	Morogoro	Coastal	Early adult
+1683	L3	retreatment	negative	42	M	Dar es Salaam	Coastal	Early adult
+1684	L3	retreatment	negative	41	M	Mwanza	Lake	Early adult
+1685	L4	retreatment	negative	35	M	Dar es Salaam	Coastal	Early adult
+1686	L2	new case	positive	45	F	Tanga	Northern	Late adult
+1687	L3	new case	negative	43	F	Mwanza	Lake	Early adult
+1688	L2	new case	negative	33	M	Morogoro	Coastal	Early adult
+1689	L1	new case	positive	35	M	Ruvuma	Southern Highlands	Early adult
+1690	L4	new case	positive	45	F	Dar es Salaam	Coastal	Late adult
+1691	L2	new case	negative	46	F	Morogoro	Coastal	Late adult
+1692	L3	retreatment	positive	36	M	Pwani	Coastal	Early adult
+1693	L4	retreatment	negative	25	M	Dar es Salaam	Coastal	Early adult
+1694	L3	retreatment	negative	46	M	Pwani	Coastal	Late adult
+1695	L4	retreatment	negative	70	M	Pwani	Coastal	Old age
+1696	L2	retreatment	positive	60	F	Dar es Salaam	Coastal	Late adult
+1697	L4	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1698	L4	new case	positive	20	F	Ruvuma	Southern Highlands	Young age
+1699	L4	new case	negative	42	F	Iringa	Southern Highlands	Early adult
+1700	NA	NA	NA	NA	NA	NA	NA	NA
+1701	L4	new case	negative	39	F	Mwanza	Lake	Early adult
+1702	L4	new case	negative	49	M	Mbeya	Southern Highlands	Late adult
+1703	L3	new case	negative	30	M	Iringa	Southern Highlands	Early adult
+1704	L3	new case	positive	37	F	Iringa	Southern Highlands	Early adult
+1705	L4	new case	negative	50	F	Mwanza	Lake	Late adult
+1706	L3	new case	negative	32	F	Morogoro	Coastal	Early adult
+1707	L3	new case	negative	25	F	Morogoro	Coastal	Early adult
+1708	L4	new case	positive	55	M	Pwani	Coastal	Late adult
+1709	L2	new case	negative	83	M	Kilimanjaro	Northern	Old age
+1710	L1	new case	negative	31	M	Mwanza	Lake	Early adult
+1711	L4	new case	negative	40	M	Mwanza	Lake	Early adult
+1712	L4	new case	positive	40	M	Iringa	Southern Highlands	Early adult
+1713	L1	new case	negative	64	F	Pwani	Coastal	Late adult
+1714	L3	new case	negative	40	M	Tanga	Northern	Early adult
+1715	L4	new case	negative	NA	M	Pwani	Coastal	NA
+1716	L3	new case	negative	40	M	Iringa	Southern Highlands	Early adult
+1717	L3	retreatment	negative	44	M	Dar es Salaam	Coastal	Early adult
+1718	L4	new case	negative	19	M	Mwanza	Lake	Young age
+1719	L3	new case	negative	35	F	Kilimanjaro	Northern	Early adult
+1720	L4	new case	positive	26	F	Pwani	Coastal	Early adult
+1721	L4	new case	positive	21	M	Tanga	Northern	Young age
+1722	L3	new case	positive	38	F	Pwani	Coastal	Early adult
+1723	L4	new case	positive	40	M	Mwanza	Lake	Early adult
+1724	L3	new case	negative	30	M	Dar es Salaam	Coastal	Early adult
+1725	L4	new case	positive	34	F	Pwani	Coastal	Early adult
+1726	L3	new case	positive	40	F	Dodoma	Central	Early adult
+1727	L4	new case	positive	24	F	Pwani	Coastal	Young age
+1728	L1	new case	negative	54	M	Tanga	Northern	Late adult
+1729	L3	new case	negative	60	M	Pwani	Coastal	Late adult
+1730	L3	new case	negative	50	M	Pwani	Coastal	Late adult
+1731	L3	new case	negative	76	F	Dar es Salaam	Coastal	Old age
+1732	L3	new case	negative	24	M	Morogoro	Coastal	Young age
+1733	L2	new case	negative	23	M	Tanga	Northern	Young age
+1734	L1	new case	negative	62	M	Tanga	Northern	Late adult
+1735	L3	new case	negative	58	M	Tanga	Northern	Late adult
+1736	L1	new case	positive	32	F	Pwani	Coastal	Early adult
+1737	L4	new case	negative	23	M	Pwani	Coastal	Young age
+1738	L1	new case	positive	41	F	Mwanza	Lake	Early adult
+1739	L3	retreatment	negative	28	M	Kigoma	Western	Early adult
+1740	L4	new case	negative	40	F	Mwanza	Lake	Early adult
+1741	L4	new case	positive	37	M	Pwani	Coastal	Early adult
+1742	L4	new case	negative	48	M	Arusha	Northern	Late adult
+1743	L4	new case	negative	30	M	Morogoro	Coastal	Early adult
+1744	L4	new case	positive	24	F	Mwanza	Lake	Young age
+1745	L1	new case	negative	31	M	Mwanza	Lake	Early adult
+1746	L3	new case	positive	42	M	Mwanza	Lake	Early adult
+1747	L4	new case	negative	25	M	Tanga	Northern	Early adult
+1748	L1	new case	negative	28	M	Tanga	Northern	Early adult
+1749	L4	new case	negative	37	F	Pwani	Coastal	Early adult
+1750	L3	new case	positive	40	M	Morogoro	Coastal	Early adult
+1751	L1	new case	positive	24	F	Morogoro	Coastal	Young age
+1752	NA	retreatment	positive	43	F	Dar es Salaam	Coastal	Early adult
+1753	L2	new case	negative	30	F	Morogoro	Coastal	Early adult
+1754	L4	new case	negative	57	M	Tanga	Northern	Late adult
+1755	L4	new case	positive	29	M	Iringa	Southern Highlands	Early adult
+1756	L3	new case	positive	18	M	Kagera	Lake	Young age
+1757	L2	new case	negative	86	M	Mwanza	Lake	Old age
+1758	L3	new case	negative	45	M	Pwani	Coastal	Late adult
+1759	L2	new case	negative	23	F	Pwani	Coastal	Young age
+1760	L4	new case	positive	43	M	Pwani	Coastal	Early adult
+1761	L1	new case	negative	34	M	Pwani	Coastal	Early adult
+1762	L4	new case	positive	39	F	Mwanza	Lake	Early adult
+1763	L4	new case	positive	28	M	Pwani	Coastal	Early adult
+1764	L3	new case	negative	25	F	Pwani	Coastal	Early adult
+1765	L2	new case	negative	21	M	Pwani	Coastal	Young age
+1766	L4	new case	negative	30	M	Mwanza	Lake	Early adult
+1767	L3	new case	negative	55	M	Kilimanjaro	Northern	Late adult
+1768	L4	new case	positive	32	M	Tanga	Northern	Early adult
+1769	L4	new case	negative	NA	M	Mwanza	Lake	NA
+1770	L3	new case	positive	44	M	Tanga	Northern	Early adult
+1771	L4	new case	negative	70	M	Mwanza	Lake	Old age
+1772	L3	new case	positive	42	F	Dar es Salaam	Coastal	Early adult
+1773	L4	new case	negative	30	F	Iringa	Southern Highlands	Early adult
+1774	L4	new case	negative	31	M	Mwanza	Lake	Early adult
+1775	L3	new case	negative	28	M	Morogoro	Coastal	Early adult
+1776	L1	new case	positive	54	M	Dar es Salaam	Coastal	Late adult
+1777	L3	new case	negative	23	M	Pwani	Coastal	Young age
+1778	L3	new case	negative	62	M	Mwanza	Lake	Late adult
+1779	L4	new case	positive	52	M	Pwani	Coastal	Late adult
+1780	L4	new case	negative	20	M	Iringa	Southern Highlands	Young age
+1781	L3	retreatment	negative	33	M	Dar es Salaam	Coastal	Early adult
+1782	L3	retreatment	negative	34	M	Dar es Salaam	Coastal	Early adult
+1783	L2	retreatment	negative	44	M	Mwanza	Lake	Early adult
+1784	L1	retreatment	negative	52	M	Singida	Central	Late adult
+1785	L4	retreatment	negative	66	M	Mwanza	Lake	Old age
+1786	L4	retreatment	negative	48	F	Singida	Central	Late adult
+1787	L4	retreatment	negative	34	M	Pwani	Coastal	Early adult
+1788	L3	retreatment	negative	50	M	Tanga	Northern	Late adult
+1789	L3	retreatment	positive	41	F	Shinyanga	Lake	Early adult
+1790	L3	retreatment	negative	26	M	Dar es Salaam	Coastal	Early adult
+1791	L3	retreatment	negative	40	M	Kilimanjaro	Northern	Early adult
+1792	L3	retreatment	negative	55	F	Dar es Salaam	Coastal	Late adult
+1793	L4	retreatment	negative	21	M	Pwani	Coastal	Young age
+1794	L4	retreatment	negative	30	M	Dar es Salaam	Coastal	Early adult
+1795	L3	retreatment	negative	52	M	Arusha	Northern	Late adult
+1796	L3	retreatment	positive	30	M	Iringa	Southern Highlands	Early adult
+1797	L4	retreatment	negative	32	M	Dar es Salaam	Coastal	Early adult
+1798	L4	retreatment	positive	41	M	Dar es Salaam	Coastal	Early adult
+1799	L4	retreatment	negative	52	M	Dodoma	Central	Late adult
+1800	L3	retreatment	negative	2	F	Kilimanjaro	Northern	Child age
+1801	L4	retreatment	negative	20	F	Dar es Salaam	Coastal	Young age
+1802	L3	retreatment	negative	42	M	Dar es Salaam	Coastal	Early adult
+1803	L3	retreatment	positive	47	M	Mwanza	Lake	Late adult
+1804	L3	retreatment	positive	34	M	Iringa	Southern Highlands	Early adult
+1805	L1	retreatment	negative	46	M	Ruvuma	Southern Highlands	Late adult
+1806	L3	retreatment	positive	50	M	Dar es Salaam	Coastal	Late adult
+1807	L3	retreatment	negative	28	M	Dar es Salaam	Coastal	Early adult
+1808	L3	retreatment	negative	37	M	Dar es Salaam	Coastal	Early adult
+1809	L2	retreatment	negative	26	M	Dar es Salaam	Coastal	Early adult
+1810	L4	retreatment	negative	27	M	Dar es Salaam	Coastal	Early adult
+1811	L2	retreatment	negative	38	M	Dar es Salaam	Coastal	Early adult
+1812	L3	retreatment	negative	35	M	Arusha	Northern	Early adult
+1813	L3	retreatment	negative	49	M	Singida	Central	Late adult
+1814	L1	retreatment	negative	31	F	Tanga	Northern	Early adult
+1815	L2	retreatment	negative	28	M	Dar es Salaam	Coastal	Early adult
+1816	L2	retreatment	negative	26	F	Dar es Salaam	Coastal	Early adult
+1817	L3	retreatment	negative	23	F	Dar es Salaam	Coastal	Young age
+1818	L3	retreatment	negative	40	M	Kilimanjaro	Northern	Early adult
+1819	L1	retreatment	negative	52	M	Kilimanjaro	Northern	Late adult
+1820	L4	retreatment	negative	45	M	Dar es Salaam	Coastal	Late adult
+1821	L1	retreatment	negative	32	M	Dar es Salaam	Coastal	Early adult
+1822	L3	retreatment	negative	12	F	Lindi	Coastal	Child age
+1823	L3	retreatment	negative	32	M	Rukwa	Southern Highlands	Early adult
+1824	L3	retreatment	positive	42	F	Dar es Salaam	Coastal	Early adult
+1825	L1	retreatment	negative	32	M	Dar es Salaam	Coastal	Early adult
+1826	L4	retreatment	negative	22	M	Dar es Salaam	Coastal	Young age
+1827	L1	retreatment	negative	42	F	Dar es Salaam	Coastal	Early adult
+1828	L1	retreatment	negative	55	F	Dar es Salaam	Coastal	Late adult
+1829	L3	retreatment	negative	21	F	Dar es Salaam	Coastal	Young age
+1830	L2	retreatment	negative	28	F	Dar es Salaam	Coastal	Early adult
+1831	L4	retreatment	negative	31	F	Tanga	Northern	Early adult
+1832	L3	retreatment	positive	31	F	Dar es Salaam	Coastal	Early adult
+1833	L3	retreatment	negative	36	M	Pwani	Coastal	Early adult
+1834	L2	retreatment	negative	56	F	Dar es Salaam	Coastal	Late adult
+1835	L4	retreatment	positive	43	F	Mwanza	Lake	Early adult
+1836	L4	retreatment	negative	71	M	Pwani	Coastal	Old age
+1837	L3	retreatment	negative	49	M	Dar es Salaam	Coastal	Late adult
+1838	L1	retreatment	negative	24	F	Dar es Salaam	Coastal	Young age
+1839	L3	retreatment	negative	21	F	Dar es Salaam	Coastal	Young age
+1840	L3	retreatment	negative	43	M	Arusha	Northern	Early adult
+1841	L3	retreatment	negative	49	F	Mara	Lake	Late adult
+1842	L4	retreatment	negative	42	M	Dar es Salaam	Coastal	Early adult
+1843	L3	retreatment	positive	38	F	Rukwa	Southern Highlands	Early adult
+1844	L1	retreatment	negative	65	M	Mwanza	Lake	Old age
+1845	L4	retreatment	negative	37	M	Morogoro	Coastal	Early adult
+1846	L4	retreatment	negative	24	M	Morogoro	Coastal	Young age
+1847	L1	retreatment	positive	46	F	Dar es Salaam	Coastal	Late adult
+1848	L4	retreatment	negative	30	M	Dar es Salaam	Coastal	Early adult
+1849	L1	retreatment	negative	54	M	Dar es Salaam	Coastal	Late adult
+1850	L4	retreatment	negative	27	M	Kilimanjaro	Northern	Early adult
+1851	L3	retreatment	negative	47	M	Mwanza	Lake	Late adult
+1852	L4	retreatment	negative	36	M	Shinyanga	Lake	Early adult
+1853	L3	retreatment	positive	59	M	Tanga	Northern	Late adult
+1854	L3	retreatment	positive	46	F	Dar es Salaam	Coastal	Late adult
+1855	L3	retreatment	positive	28	M	Mwanza	Lake	Early adult
+1856	L2	retreatment	positive	32	F	Dar es Salaam	Coastal	Early adult
+1857	L3	retreatment	negative	87	F	Mbeya	Southern Highlands	Old age
+1858	L3	retreatment	negative	31	F	Tanga	Northern	Early adult
+1859	L4	retreatment	positive	27	M	Kilimanjaro	Northern	Early adult
+1860	L4	retreatment	negative	49	M	Mwanza	Lake	Late adult
+1861	L3	retreatment	negative	26	M	Pwani	Coastal	Early adult
+1862	L3	new case	positive	44	F	Morogoro	Coastal	Early adult
+1863	L3	new case	negative	32	M	Dar es Salaam	Coastal	Early adult
+1864	L1	new case	positive	28	F	Morogoro	Coastal	Early adult
+1865	L3	new case	negative	44	M	Mwanza	Lake	Early adult
+1866	L4	new case	positive	51	F	Pwani	Coastal	Late adult
+1867	L4	new case	negative	58	M	Manyara	Northern	Late adult
+1868	L1	new case	negative	55	M	Pwani	Coastal	Late adult
+1869	L4	new case	negative	30	M	Pwani	Coastal	Early adult
+1870	L4	new case	positive	31	F	Iringa	Southern Highlands	Early adult
+1871	L4	new case	negative	49	F	Pwani	Coastal	Late adult
+1872	L3	new case	positive	28	F	Tanga	Northern	Early adult
+1873	L3	new case	negative	23	F	Morogoro	Coastal	Young age
+1874	L4	new case	negative	65	M	Mwanza	Lake	Old age
+1875	L1	new case	positive	30	F	Tanga	Northern	Early adult
+1876	L4	new case	positive	35	F	Morogoro	Coastal	Early adult
+1877	L4	new case	negative	11	M	Morogoro	Coastal	Child age
+1878	L1	new case	negative	19	F	Morogoro	Coastal	Young age
+1879	L4	new case	positive	34	F	Arusha	Northern	Early adult
+1880	L3	new case	positive	28	M	Tanga	Northern	Early adult
+1881	L4	new case	negative	21	F	Mwanza	Lake	Young age
+1882	L4	new case	positive	22	M	Tanga	Northern	Young age
+1883	L4	new case	positive	42	M	Mwanza	Lake	Early adult
+1884	L4	new case	negative	48	M	Iringa	Southern Highlands	Late adult
+1885	L3	new case	negative	41	F	Iringa	Southern Highlands	Early adult
+1886	L4	new case	negative	30	M	Tanga	Northern	Early adult
+1887	L4	new case	positive	16	M	Iringa	Southern Highlands	Young age
+1888	L3	new case	positive	35	F	Morogoro	Coastal	Early adult
+1889	L4	new case	positive	41	M	Mwanza	Lake	Early adult
+1890	L3	new case	negative	35	M	Morogoro	Coastal	Early adult
+1891	L1	new case	negative	19	F	Iringa	Southern Highlands	Young age
+1892	L2	new case	positive	42	F	Morogoro	Coastal	Early adult
+1893	L4	new case	negative	30	F	Dar es Salaam	Coastal	Early adult
+1894	L4	new case	negative	25	M	Kaskazini Unguja	Zanzibar	Early adult
+1895	L4	new case	negative	45	F	Tanga	Northern	Late adult
+1896	L3	new case	negative	15	M	Dar es Salaam	Coastal	Young age
+1897	L3	new case	positive	50	M	Mwanza	Lake	Late adult
+1898	L3	new case	negative	48	F	Tanga	Northern	Late adult
+1899	L3	new case	negative	50	F	Mbeya	Southern Highlands	Late adult
+1900	L3	new case	positive	44	M	Tanga	Northern	Early adult
+1901	L4	new case	positive	35	F	Tanga	Northern	Early adult
+1902	L4	new case	positive	44	M	Tanga	Northern	Early adult
+1903	L3	new case	positive	40	F	Pwani	Coastal	Early adult
+1904	L4	new case	negative	30	F	Mwanza	Lake	Early adult
+1905	L4	new case	positive	44	M	Mwanza	Lake	Early adult
+1906	L1	new case	negative	43	M	Kilimanjaro	Northern	Early adult
+1907	L3	new case	positive	20	F	Iringa	Southern Highlands	Young age
+1908	L1	new case	negative	28	M	Mwanza	Lake	Early adult
+1909	L2	retreatment	positive	32	F	Mwanza	Lake	Early adult
+1910	L3	new case	positive	37	M	Iringa	Southern Highlands	Early adult
+1911	L3	new case	negative	46	F	Pwani	Coastal	Late adult
+1912	L1	new case	positive	24	F	Tanga	Northern	Young age
+1913	L1	new case	positive	28	M	Tanga	Northern	Early adult
+1914	L3	new case	negative	36	M	Arusha	Northern	Early adult
+1915	L4	new case	positive	21	M	Dar es Salaam	Coastal	Young age
+1916	L3	new case	negative	35	F	Pwani	Coastal	Early adult
+1917	L1	retreatment	positive	42	M	Kilimanjaro	Northern	Early adult
+1918	L4	retreatment	negative	21	M	Dar es Salaam	Coastal	Young age
+1919	L4	retreatment	negative	20	M	Kilimanjaro	Northern	Young age
+1920	L3	retreatment	negative	32	F	Mara	Lake	Early adult
+1921	L1	retreatment	negative	20	F	Mara	Lake	Young age
+1922	L4	retreatment	negative	28	F	Mara	Lake	Early adult
+1923	L4	retreatment	negative	50	M	Tanga	Northern	Late adult
+1924	L3	new case	positive	27	M	Iringa	Southern Highlands	Early adult
+1925	L4	retreatment	negative	47	M	Dar es Salaam	Coastal	Late adult
+1926	L3	new case	positive	29	M	Mwanza	Lake	Early adult
+1927	L4	retreatment	negative	63	M	Dar es Salaam	Coastal	Late adult
+1928	L4	retreatment	positive	31	M	Dar es Salaam	Coastal	Early adult
+1929	L3	retreatment	positive	29	F	Dar es Salaam	Coastal	Early adult
+1930	L4	retreatment	negative	26	M	Pwani	Coastal	Early adult
+1931	L4	retreatment	positive	40	M	Pwani	Coastal	Early adult
+1932	L4	retreatment	negative	25	F	Dar es Salaam	Coastal	Early adult
+1933	L3	retreatment	negative	42	M	Dar es Salaam	Coastal	Early adult
+1934	L3	NA	NA	NA	NA	NA	NA	NA
+1935	L3	retreatment	negative	22	M	Dar es Salaam	Coastal	Young age
+1936	L4	retreatment	positive	50	F	Iringa	Southern Highlands	Late adult
+1937	L1	retreatment	negative	32	M	Shinyanga	Lake	Early adult
+1938	L1	retreatment	positive	34	F	Dar es Salaam	Coastal	Early adult
+1939	L3	retreatment	negative	21	F	Dar es Salaam	Coastal	Young age
+1940	NA	retreatment	negative	32	M	Kagera	Lake	Early adult
+1941	NA	retreatment	negative	32	M	Arusha	Northern	Early adult
+1942	L3	retreatment	negative	21	M	Dar es Salaam	Coastal	Young age
+1943	L3	retreatment	negative	37	M	Dar es Salaam	Coastal	Early adult
+1944	L4	retreatment	negative	33	F	Mara	Lake	Early adult
+1945	L3	retreatment	negative	32	M	Mwanza	Lake	Early adult
+1946	L4	retreatment	positive	28	F	Kagera	Lake	Early adult
+1947	L1	retreatment	negative	50	M	Dar es Salaam	Coastal	Late adult
+1948	L1	retreatment	negative	35	M	Morogoro	Coastal	Early adult
+1949	L4	retreatment	negative	28	M	Dar es Salaam	Coastal	Early adult
+1950	L3	retreatment	positive	32	M	Dar es Salaam	Coastal	Early adult
+1951	L3	retreatment	positive	40	M	Dar es Salaam	Coastal	Early adult
+1952	L4	retreatment	negative	25	M	Mwanza	Lake	Early adult
+1953	L4	retreatment	negative	36	M	Dar es Salaam	Coastal	Early adult
+1954	L4	retreatment	negative	32	M	Dar es Salaam	Coastal	Early adult
+1955	L1	retreatment	negative	48	M	Kilimanjaro	Northern	Late adult
+1956	L3	retreatment	positive	37	F	Dar es Salaam	Coastal	Early adult
+1957	NA	retreatment	negative	55	F	Kagera	Lake	Late adult
+1958	L3	retreatment	positive	15	M	Dar es Salaam	Coastal	Young age
+1959	L4	retreatment	negative	80	M	Pwani	Coastal	Old age
+1960	L4	retreatment	negative	26	M	Kilimanjaro	Northern	Early adult
+1961	L4	retreatment	negative	52	M	Arusha	Northern	Late adult
+1962	L4	retreatment	negative	19	M	Dar es Salaam	Coastal	Young age
+1963	L1	retreatment	negative	57	F	Dar es Salaam	Coastal	Late adult
+1964	L4	retreatment	negative	23	F	Dar es Salaam	Coastal	Young age
+1965	L4	retreatment	negative	31	M	Dar es Salaam	Coastal	Early adult
+1966	L4	retreatment	negative	32	M	Lindi	Coastal	Early adult
+1967	L3	retreatment	positive	29	F	Iringa	Southern Highlands	Early adult
+1968	L3	retreatment	negative	51	M	Dar es Salaam	Coastal	Late adult
+1969	L1	retreatment	positive	48	M	Dar es Salaam	Coastal	Late adult
+1970	L3	retreatment	positive	52	F	Kilimanjaro	Northern	Late adult
+1971	L4	retreatment	negative	41	M	Dar es Salaam	Coastal	Early adult
+1972	L4	retreatment	negative	36	F	Mara	Lake	Early adult
+1973	L4	retreatment	negative	70	M	Tanga	Northern	Old age
+1974	L1	retreatment	negative	56	M	Kagera	Lake	Late adult
+1975	L2	retreatment	negative	30	M	Arusha	Northern	Early adult
+1976	L4	retreatment	positive	37	M	Dar es Salaam	Coastal	Early adult
+1977	L2	retreatment	negative	16	M	Dar es Salaam	Coastal	Young age
+1978	L4	retreatment	positive	32	M	Dar es Salaam	Coastal	Early adult
+1979	L3	retreatment	negative	27	M	Kilimanjaro	Northern	Early adult
+1980	L4	retreatment	negative	30	M	Tanga	Northern	Early adult
+1981	L3	NA	NA	NA	NA	NA	NA	NA
+1982	L4	retreatment	negative	50	M	Dar es Salaam	Coastal	Late adult
+1983	L3	retreatment	positive	46	M	Mwanza	Lake	Late adult
+1984	L4	retreatment	negative	52	M	Dar es Salaam	Coastal	Late adult
+1985	L4	retreatment	negative	69	M	Pwani	Coastal	Old age
+1986	L4	retreatment	positive	52	M	Kagera	Lake	Late adult
+1987	L4	retreatment	positive	39	M	Pwani	Coastal	Early adult
+1988	L3	retreatment	negative	40	F	Kilimanjaro	Northern	Early adult
+1989	L3	retreatment	negative	70	F	Pwani	Coastal	Old age
+1990	L3	retreatment	positive	30	M	Mwanza	Lake	Early adult
+1991	L4	retreatment	negative	26	M	Dar es Salaam	Coastal	Early adult
+1992	L4	retreatment	negative	34	F	Dar es Salaam	Coastal	Early adult
+1993	L3	retreatment	negative	26	F	Dar es Salaam	Coastal	Early adult
+1994	L3	retreatment	negative	33	F	Lindi	Coastal	Early adult
+1995	L3	retreatment	negative	69	M	Pwani	Coastal	Old age
+1996	L4	retreatment	negative	35	M	Dar es Salaam	Coastal	Early adult
+1997	L2	retreatment	positive	55	F	Arusha	Northern	Late adult
+1998	L4	retreatment	negative	23	M	Dar es Salaam	Coastal	Young age
+1999	L3	retreatment	positive	39	M	Mwanza	Lake	Early adult
+2000	L3	retreatment	negative	40	M	Dar es Salaam	Coastal	Early adult
+2001	L1	retreatment	positive	50	F	Mtwara	Coastal	Late adult
+2002	L4	retreatment	negative	51	M	Arusha	Northern	Late adult
+2003	L3	retreatment	negative	35	M	Dar es Salaam	Coastal	Early adult
+2004	L3	retreatment	negative	30	M	Tanga	Northern	Early adult
+2005	L3	retreatment	negative	38	M	Kaskazini Unguja	Zanzibar	Early adult
+2006	L1	retreatment	negative	53	M	Tabora	Central	Late adult
+2007	L4	retreatment	positive	41	F	Dar es Salaam	Coastal	Early adult
+2008	L1	retreatment	negative	43	F	Dar es Salaam	Coastal	Early adult
+2009	L3	retreatment	negative	31	F	Tanga	Northern	Early adult
+2010	L3	retreatment	positive	42	M	Mwanza	Lake	Early adult
+2011	L3	retreatment	positive	21	M	Dar es Salaam	Coastal	Young age
+2012	L3	retreatment	negative	30	M	Dar es Salaam	Coastal	Early adult
+2013	L4	retreatment	negative	54	M	Kaskazini Unguja	Zanzibar	Late adult
+2014	L4	retreatment	negative	25	M	Dar es Salaam	Coastal	Early adult
+2015	L1	retreatment	negative	32	M	Dar es Salaam	Coastal	Early adult
+2016	L3	retreatment	negative	36	M	Kaskazini Unguja	Zanzibar	Early adult
+2017	L4	retreatment	positive	15	M	Iringa	Southern Highlands	Young age
+2018	L3	retreatment	negative	21	F	Tanga	Northern	Young age
+2019	L4	retreatment	negative	25	F	Dar es Salaam	Coastal	Early adult
+2020	L3	retreatment	negative	35	M	Dar es Salaam	Coastal	Early adult
+2021	L1	retreatment	negative	79	M	Mwanza	Lake	Old age
+2022	L3	retreatment	negative	35	M	Dar es Salaam	Coastal	Early adult
+2023	L4	retreatment	negative	22	M	Kaskazini Unguja	Zanzibar	Young age
+2024	L1	retreatment	positive	50	F	Kaskazini Unguja	Zanzibar	Late adult
+2025	L4	retreatment	negative	66	M	Morogoro	Coastal	Old age
+2026	L4	retreatment	negative	21	M	Morogoro	Coastal	Young age
+2027	L1	retreatment	positive	40	M	Pwani	Coastal	Early adult
+2028	L4	retreatment	positive	50	M	Dar es Salaam	Coastal	Late adult
+2029	L2	retreatment	negative	37	M	Kilimanjaro	Northern	Early adult
+2030	L1	retreatment	negative	46	M	Morogoro	Coastal	Late adult
+2031	L4	retreatment	negative	24	M	Morogoro	Coastal	Young age
+2032	L1	retreatment	negative	62	M	Dar es Salaam	Coastal	Late adult
+2033	L4	retreatment	negative	54	M	Mbeya	Southern Highlands	Late adult
+2034	L4	retreatment	positive	32	F	Dar es Salaam	Coastal	Early adult
+2035	L4	retreatment	negative	21	F	Kilimanjaro	Northern	Young age
+2036	L4	retreatment	negative	41	M	Dar es Salaam	Coastal	Early adult
+2037	L3	retreatment	negative	35	M	Kaskazini Unguja	Zanzibar	Early adult
+2038	L1	retreatment	positive	40	M	Iringa	Southern Highlands	Early adult
+2039	L1	retreatment	negative	68	M	Shinyanga	Lake	Old age
